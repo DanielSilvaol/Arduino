@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Arduino:Web exploded">
+    <output-path>$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Arduino/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Arduino" />
+          <element id="library" level="module" name="index.jsp" module-name="Arduino" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="file-copy" path="F:/Daniel/mysql-connector-java-5.1.38.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
