@@ -38,17 +38,16 @@
       </library>
     </orderEntry>
     <orderEntry type="library" name="Java EE 6-Java EE 6" level="project" />
+    <orderEntry type="library" name="javax.servlet.jsp.jstl-1.2.1" level="project" />
+    <orderEntry type="library" name="RXTXcomm" level="project" />
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://F:/Daniel/mysql-connector-java-5.1.38.jar!/" />
+          <root url="jar://D:/Daniel/mysql-connector-java-5.1.38.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="canvasjs" level="application" />
-    <orderEntry type="library" name="javax.servlet.jsp.jstl-1.2.1" level="project" />
-    <orderEntry type="library" name="canvasjs" level="application" />
   </component>
 </module>

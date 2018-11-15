@@ -1,6 +1,7 @@
 package command;
 
 
+import Arduino.ControlePorta;
 import Service.ConsumoService;
 
 import javax.servlet.RequestDispatcher;
@@ -16,18 +17,19 @@ public class ControleCozinha implements Command {
     @Override
     public void executar(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
-
+        ControlePorta conn = new ControlePorta("COM3",9600);
 
         ConsumoService service = new ConsumoService();
-        if(ligaDesliga == 0){
-            ligaDesliga =1;
+        if (ligaDesliga == 0) {
+            conn.enviaDados(1);
+            ligaDesliga = 1;
             service.ligaLed("COZINHA");
-        }else if (ligaDesliga ==1){
-            ligaDesliga=0;
+        } else if (ligaDesliga == 1) {
+            ligaDesliga = 0;
+            conn.enviaDados(2);
             service.desligaLed("COZINHA");
 
         }
-
 
 
         RequestDispatcher view = request.getRequestDispatcher("index.jsp");

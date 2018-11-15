@@ -18,7 +18,7 @@ public class Controller extends HttpServlet {
 
     private void doExecute(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         try {
-            request.setCharacterEncoding("UTF-8");
+          //request.setCharacterEncoding("UTF-8");
             Command comando = (Command) Class.forName("command." + request.getParameter("command")).newInstance();
             comando.executar(request, response);
         } catch (InstantiationException | IllegalAccessException
