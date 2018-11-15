@@ -7,21 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c43028e7-d214-4fa8-a695-d2d6591ec7e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/RXTXcomm.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arduino/Arduino.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Arduino/ControlePorta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/serialmonitor_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/Arduino_Web_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Arduino_Web_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/266e2847-1979-49dc-8efe-d050ba555e23.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/86c3d154-1f1a-4150-bba3-e15c3352208c.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arduino.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Arduino.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/command/ControleCozinha.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/command/ControleCozinha.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleCozinha.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleCozinha.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Controller/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Controller/Controller.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/ControleCozinha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/ControleCozinha.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -100,18 +90,22 @@
     <session id="1137800030">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.41" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
+          <entry key="class" value="1" />
           <entry key="java" value="11" />
           <entry key="sql" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CLASS" value="1" />
           <entry key="JAVA" value="11" />
           <entry key="SQL" value="1" />
           <entry key="Scratch" value="1" />
@@ -119,14 +113,14 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="316" />
+          <entry key="java" value="361" />
           <entry key="jsp" value="52" />
           <entry key="sql" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="316" />
+          <entry key="JAVA" value="361" />
           <entry key="JSP" value="52" />
           <entry key="Scratch" value="8" />
         </counts>
@@ -138,7 +132,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Controller/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
+            <state relative-caret-position="221">
               <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
@@ -147,7 +141,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/command/ControleCozinha.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
+            <state relative-caret-position="204">
               <caret line="19" selection-start-line="19" selection-end-line="19" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -159,8 +153,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Arduino/ControlePorta.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="77" />
+            <state relative-caret-position="170">
+              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -280,14 +274,25 @@
             <path>
               <item name="Arduino" type="b2602c69:ProjectViewProjectNode" />
               <item name="Arduino" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arduino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arduino" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="rxtx-2.2pre2-bins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arduino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arduino" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -297,10 +302,10 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542296485478" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542302775403" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="D:/Daniel/mysql-connector-java-5.1.38.jar!/" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/Arduino" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
@@ -341,6 +346,7 @@
     </configuration>
     <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.112" ALTERNATIVE_JRE_ENABLED="false">
       <option name="BROWSER_ID" value="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" />
+      <option name="UPDATE_ON_FRAME_DEACTIVATION" value="true" />
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
         <artifact name="Arduino:Web exploded">
@@ -433,7 +439,8 @@
       <updated>1541792480709</updated>
       <workItem from="1541792511560" duration="5204000" />
       <workItem from="1541799908449" duration="7827000" />
-      <workItem from="1542292703353" duration="3717000" />
+      <workItem from="1542292703353" duration="7031000" />
+      <workItem from="1542302908641" duration="732000" />
     </task>
     <task id="LOCAL-00001" summary="New Format">
       <created>1541807416077</created>
@@ -442,23 +449,31 @@
       <option name="project" value="LOCAL" />
       <updated>1541807416077</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New Format">
+      <created>1542296469135</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542296469135</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16748000" />
+    <option name="totallyTimeSpent" value="20794000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25037822" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.25416037" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Serial Monitor" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
@@ -577,45 +592,48 @@
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
-        <expression-string>portId = CommPortIdentifier.getPortIdentifier(this.portaCOM)</expression-string>
+        <expression-string>portId.getPortIdentifier(super);</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>CommPortIdentifier portId = CommPortIdentifier.getPortIdentifier(this.portaCOM)</expression-string>
+        <expression-string>portId.getPortIdentifier(portaCOM);</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>portId = CommPortIdentifier.getPortIdentifier(this.portaCOM)</expression-string>
-        <language-id>JAVA</language-id>
-        <custom-info>gnu.io.CommPortIdentifier</custom-info>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>Command comando = (Command) Class.forName(&quot;command.&quot; + request.getParameter(&quot;command&quot;)).newInstance();</expression-string>
+        <expression-string>portId = CommPortIdentifier.getPortIdentifier(portaCOM);</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>request.setCharacterEncoding(&quot;UTF-8&quot;)</expression-string>
+        <expression-string>portId = CommPortIdentifier.getPortIdentifier(1);</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>stm.execute()</expression-string>
+        <expression-string>portId = CommPortIdentifier.getPortIdentifier();</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>{ x: new Date(${consumo.Inicial}), y: 13 }</expression-string>
-        <language-id>JSP</language-id>
-        <custom-info>java.util.Date</custom-info>
+        <expression-string>portId = CommPortIdentifier.getPortIdentifier()</expression-string>
+        <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>{ x: new Date(${consumo.Inicial}), y: 13 }</expression-string>
-        <language-id>JSP</language-id>
+        <expression-string>portId = CommPortIdentifier.getPortIdentifier(&quot;COM3&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>portId = CommPortIdentifier.getPortIdentifier(&quot;COM2&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>portId = CommPortIdentifier.getPortIdentifier(&quot;COM1&quot;)</expression-string>
+        <language-id>JAVA</language-id>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
@@ -665,9 +683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -702,13 +717,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arduino/SerialReadAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="25" lean-forward="true" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arduino/SerialReadAction.java" />
     <entry file="file://$PROJECT_DIR$/src/command/ControleQuarto.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-17">
@@ -716,25 +725,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arduino/ControlarLuz.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="22" column="36" selection-start-line="22" selection-start-column="36" selection-end-line="22" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arduino/SerialInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="663">
-          <caret line="45" column="10" lean-forward="true" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#2519#2520#0" expanded="true" />
-            <element signature="e#2567#2568#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arduino/ControlarLuz.java" />
+    <entry file="file://$PROJECT_DIR$/src/Arduino/SerialInterface.java" />
     <entry file="file://$PROJECT_DIR$/src/Arduino/Arduino.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
@@ -753,12 +745,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
-          <folding>
-            <element signature="e#275#276#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#369#370#0" expanded="true" />
-            <element signature="e#418#419#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -776,9 +762,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/rxtx-2.2pre2-bins/RXTXcomm.jar!/gnu/io/CommPortIdentifier.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="79" column="63" selection-start-line="79" selection-start-column="63" selection-end-line="79" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/command/ControleCozinha.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
+        <state relative-caret-position="204">
           <caret line="19" selection-start-line="19" selection-end-line="19" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -786,17 +786,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Controller/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Arduino/ControlePorta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="77" />
+        <state relative-caret-position="170">
+          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
