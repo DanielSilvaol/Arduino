@@ -55,7 +55,7 @@ public class ConsumoDAO {
         int valorConsumo = result * 60;
 
 
-        String sql2 = "update Consumo set VALOR = (?) where nome = (?) order by id desc limit 1";
+        String sql2 = "update Consumo set valor = (?) where nome = (?) order by id desc limit 1";
         Consumo(comodo, valorConsumo, sql2);
         LocalDateTime horaFinal = LocalDateTime.now();
         Timestamp timestamp1 = Timestamp.from(horaFinal.atZone(ZoneId.systemDefault()).toInstant());
