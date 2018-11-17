@@ -5,18 +5,18 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class ConnectionFactory {
-	static {
-		try {
-			Class.forName("com.mysql.jdbc.Driver");
-		} catch (ClassNotFoundException e) {
-			throw new RuntimeException(e);
-		}
-	}
-	
+
 	// Obtém conexão com o banco de dados
-	public static Connection obtemConexao() throws SQLException {
-		return DriverManager
-				.getConnection("jdbc:mysql://localhost:3306/ArduinoC?user=root&password=alunos");
+	static Connection obtemConexao() throws SQLException {
+			try {
+				String drive = "com.mysql.jdbc.Driver";
+				Class.forName(drive);
+				String url = "jdbc:mysql://localhost:3306/";
+				String db = "arduino";
+				return DriverManager.getConnection(url + db,"root","root");
+			} catch (ClassNotFoundException e) {
+				throw new RuntimeException(e);
+			}
 	}
 
 }

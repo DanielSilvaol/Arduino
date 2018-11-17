@@ -40,7 +40,7 @@ public class Consumos implements Command {
         session.setAttribute(USUARIO_SESSION,usuario);
         session.setAttribute("consumo", consumo);
 
-        RequestDispatcher view = request.getRequestDispatcher("index.jsp");
+        RequestDispatcher view = request.getRequestDispatcher("test.jsp");
         view.forward(request, response);
 
     }
