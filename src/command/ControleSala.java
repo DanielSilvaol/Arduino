@@ -27,16 +27,16 @@ public class ControleSala implements Command {
         }
         SerialInterface si = ArduinoDAO.getSerialInterface(request);
         ConsumoService service = new ConsumoService();
-        if (usuario.getLigaDesligaCozinha() == 0) {
+        if (usuario.getLigaDesligaSala() == 0) {
             String comando = "1";
             si.write(comando.getBytes());
             service.ligaLed("SALA");
-            usuario.setLigaDesligaCozinha(1);
-        } else if (usuario.getLigaDesligaCozinha() == 1) {
+            usuario.setLigaDesligaSala(1);
+        } else if (usuario.getLigaDesligaSala() == 1) {
             service.desligaLed("SALA");
             String comando = "0";
             si.write(comando.getBytes());
-            usuario.setLigaDesligaCozinha(0);
+            usuario.setLigaDesligaSala(0);
         }
         session.setAttribute(USUARIO_SESSION,usuario);
         RequestDispatcher view = request.getRequestDispatcher("index.jsp");

@@ -28,16 +28,16 @@ public class ControleQuarto implements Command {
         }
         SerialInterface si = ArduinoDAO.getSerialInterface(request);
         ConsumoService service = new ConsumoService();
-        if (usuario.getLigaDesligaCozinha() == 0) {
+        if (usuario.getLigaDesligaQuarto() == 0) {
             String comando = "1";
             si.write(comando.getBytes());
             service.ligaLed("QUARTO");
-            usuario.setLigaDesligaCozinha(1);
-        } else if (usuario.getLigaDesligaCozinha() == 1) {
+            usuario.setLigaDesligaQuarto(1);
+        } else if (usuario.getLigaDesligaQuarto() == 1) {
             service.desligaLed("QUARTO");
             String comando = "0";
             si.write(comando.getBytes());
-            usuario.setLigaDesligaCozinha(0);
+            usuario.setLigaDesligaQuarto(0);
         }
         session.setAttribute(USUARIO_SESSION,usuario);
         RequestDispatcher view = request.getRequestDispatcher("index.jsp");
