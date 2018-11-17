@@ -11,9 +11,10 @@ public class ConnectionFactory {
 			try {
 				String drive = "com.mysql.jdbc.Driver";
 				Class.forName(drive);
-				String url = "jdbc:mysql://localhost:3306/";
 				String db = "arduino";
-				return DriverManager.getConnection(url + db,"root","root");
+				String stringConexao = "jdbc:mysql://127.0.0.1/"+db+"?autoReconnect=true&useSSL=false";
+
+				return DriverManager.getConnection(stringConexao, "root", "root");
 			} catch (ClassNotFoundException e) {
 				throw new RuntimeException(e);
 			}
