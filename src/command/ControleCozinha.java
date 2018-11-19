@@ -1,10 +1,8 @@
 package command;
 
 
-import Arduino.ControlePorta;
 import Arduino.SerialInterface;
 import DAO.ArduinoDAO;
-import Modal.Consumo;
 import Modal.Usuario;
 import Service.ConsumoService;
 

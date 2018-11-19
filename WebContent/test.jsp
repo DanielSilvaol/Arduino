@@ -15,6 +15,14 @@
     <button type="submit" name="command" value="ControleCozinha">Cozinha</button>
     <button type="submit" name="command" value="ControleQuarto">Quarto</button>
     <button type="submit" name="command" value="ControleSala">Sala</button>
+    <label>
+        <input type="text" name="username" >
+    </label>
+    <label>
+        <input type="text" name="password" >
+    </label>
+
+
 </form>
 </body>
 </html>
