@@ -1,6 +1,5 @@
 package command;
 
-
 import Arduino.SerialInterface;
 import DAO.ArduinoDAO;
 import Modal.Usuario;
@@ -13,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 import java.io.IOException;
 
-public class ControleCozinha implements Command {
+public class ControleSalaOFF implements Command {
 
     private static final String USUARIO_SESSION = "Sessao";
 
@@ -25,22 +24,17 @@ public class ControleCozinha implements Command {
             usuario = new Usuario();
             session.setAttribute(USUARIO_SESSION, usuario);
         }
-
         SerialInterface si = ArduinoDAO.getSerialInterface(request);
         ConsumoService service = new ConsumoService();
-        if (usuario.getLigaDesligaCozinha() == 0) {
-            String comando = "1";
-            si.write(comando.getBytes());
-            service.ligaLed("COZINHA");
-            usuario.setLigaDesligaCozinha(1);
-        } else if (usuario.getLigaDesligaCozinha() == 1) {
-            service.desligaLed("COZINHA");
-            String comando = "0";
-            si.write(comando.getBytes());
-            usuario.setLigaDesligaCozinha(0);
-        }
-        session.setAttribute(USUARIO_SESSION,usuario);
+
+        service.desligaLed("SALA");
+        String comando = "0";
+        si.write(comando.getBytes());
+        usuario.setLigaDesligaSala(0);
+
+        session.setAttribute(USUARIO_SESSION, usuario);
         RequestDispatcher view = request.getRequestDispatcher("test.jsp");
+
         view.forward(request, response);
 
     }

@@ -1,21 +1,21 @@
 package command;
 
-
 import Arduino.SerialInterface;
 import DAO.ArduinoDAO;
 import Modal.Usuario;
 import Service.ConsumoService;
 
-import java.io.IOException;
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
+import java.io.IOException;
 
-public class ControleSala implements Command {
+public class ControleQuartoOFF implements Command {
 
     private static final String USUARIO_SESSION = "Sessao";
+
 
     @Override
     public void executar(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
@@ -27,18 +27,13 @@ public class ControleSala implements Command {
         }
         SerialInterface si = ArduinoDAO.getSerialInterface(request);
         ConsumoService service = new ConsumoService();
-        if (usuario.getLigaDesligaSala() == 0) {
-            String comando = "1";
-            si.write(comando.getBytes());
-            service.ligaLed("SALA");
-            usuario.setLigaDesligaSala(1);
-        } else if (usuario.getLigaDesligaSala() == 1) {
-            service.desligaLed("SALA");
-            String comando = "0";
-            si.write(comando.getBytes());
-            usuario.setLigaDesligaSala(0);
-        }
-        session.setAttribute(USUARIO_SESSION,usuario);
+
+        service.desligaLed("QUARTO");
+        String comando = "0";
+        si.write(comando.getBytes());
+        usuario.setLigaDesligaQuarto(0);
+
+        session.setAttribute(USUARIO_SESSION, usuario);
         RequestDispatcher view = request.getRequestDispatcher("test.jsp");
 
         view.forward(request, response);
