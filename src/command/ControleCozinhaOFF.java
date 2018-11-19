@@ -34,7 +34,7 @@ public class ControleCozinhaOFF implements Command {
         usuario.setLigaDesligaCozinha(0);
 
         session.setAttribute(USUARIO_SESSION, usuario);
-        RequestDispatcher view = request.getRequestDispatcher("test.jsp");
+        RequestDispatcher view = request.getRequestDispatcher("controle.jsp");
         view.forward(request, response);
 
     }

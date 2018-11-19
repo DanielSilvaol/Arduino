@@ -33,7 +33,7 @@ public class ControleSalaOFF implements Command {
         usuario.setLigaDesligaSala(0);
 
         session.setAttribute(USUARIO_SESSION, usuario);
-        RequestDispatcher view = request.getRequestDispatcher("test.jsp");
+        RequestDispatcher view = request.getRequestDispatcher("controle.jsp");
 
         view.forward(request, response);
 
