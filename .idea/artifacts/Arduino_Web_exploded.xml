@@ -13,6 +13,9 @@
           <element id="library" level="project" name="javax.servlet.jsp.jstl-1.2.1" />
           <element id="file-copy" path="D:/Daniel/mysql-connector-java-5.1.38.jar" />
           <element id="library" level="project" name="mysql:mysql-connector-java:8.0.13" />
+          <element id="archive" name="popper.jar">
+            <element id="library" level="application" name="popper" />
+          </element>
         </element>
       </element>
     </root>

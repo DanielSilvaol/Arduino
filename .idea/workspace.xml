@@ -6,21 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c43028e7-d214-4fa8-a695-d2d6591ec7e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_mysql_connector_java_8_0_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/ControleCozinhaOFF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/ControleQuartoOFF.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/command/ControleSalaOFF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Arduino_Web_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Arduino_Web_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_connector_java_5_1_38.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arduino.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Arduino.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/DAO/ConnectionFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/DAO/ConnectionFactory.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAO/ConnectionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/ConnectionFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/ControleCozinha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/ControleCozinhaON.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/ControleQuarto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/ControleQuartoON.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/ControleSala.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/ControleSalaON.java" afterDir="false" />
-    </list>
+    <list default="true" id="c43028e7-d214-4fa8-a695-d2d6591ec7e8" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -168,8 +154,8 @@
           <entry key="class" value="5" />
           <entry key="git" value="1" />
           <entry key="html" value="1" />
-          <entry key="java" value="35" />
-          <entry key="jsp" value="6" />
+          <entry key="java" value="40" />
+          <entry key="jsp" value="8" />
           <entry key="sql" value="5" />
           <entry key="vmoptions" value="1" />
         </counts>
@@ -178,8 +164,8 @@
         <counts>
           <entry key="CLASS" value="5" />
           <entry key="HTML" value="1" />
-          <entry key="JAVA" value="35" />
-          <entry key="JSP" value="6" />
+          <entry key="JAVA" value="40" />
+          <entry key="JSP" value="8" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="SQL" value="2" />
           <entry key="Scratch" value="3" />
@@ -190,8 +176,8 @@
         <counts>
           <entry key="dummy" value="7" />
           <entry key="html" value="54" />
-          <entry key="java" value="1084" />
-          <entry key="jsp" value="193" />
+          <entry key="java" value="1092" />
+          <entry key="jsp" value="309" />
           <entry key="sql" value="134" />
           <entry key="txt" value="11" />
           <entry key="vmoptions" value="7" />
@@ -200,8 +186,8 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="54" />
-          <entry key="JAVA" value="1084" />
-          <entry key="JSP" value="193" />
+          <entry key="JAVA" value="1092" />
+          <entry key="JSP" value="309" />
           <entry key="PLAIN_TEXT" value="25" />
           <entry key="SQL" value="8" />
           <entry key="Scratch" value="126" />
@@ -212,79 +198,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Controller/Controller.java">
+        <entry file="file://$PROJECT_DIR$/WebContent/controle.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="31" selection-start-line="31" selection-end-line="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DAO/ConnectionFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Arduino/ControlePorta.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/command/ControleSalaOFF.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="358">
-              <caret line="33" selection-start-line="33" selection-end-line="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="136">
+              <caret line="8" column="52" lean-forward="true" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/command/ControleSalaON.java">
+        <entry file="file://$PROJECT_DIR$/src/DAO/ConnectionFactory.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Arduino/SerialInterface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="381">
-              <caret line="109" column="18" selection-start-line="109" selection-start-column="18" selection-end-line="109" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/command/Command.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/aaf491b7-8e6b-481e-9d49-53f7fe12566a/console.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
-              <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+            <state relative-caret-position="221">
+              <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -344,15 +270,15 @@
         <option value="$PROJECT_DIR$/src/command/ControleCozinha.java" />
         <option value="$PROJECT_DIR$/WebContent/test.jsp" />
         <option value="$PROJECT_DIR$/src/command/Login.java" />
-        <option value="$PROJECT_DIR$/WebContent/controle.jsp" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/aaf491b7-8e6b-481e-9d49-53f7fe12566a/console.sql" />
         <option value="$PROJECT_DIR$/src/DAO/ConnectionFactory.java" />
         <option value="$PROJECT_DIR$/src/command/ControleCozinhaOFF.java" />
+        <option value="$PROJECT_DIR$/src/command/ControleSalaON.java" />
         <option value="$PROJECT_DIR$/src/command/ControleCozinhaON.java" />
         <option value="$PROJECT_DIR$/src/command/ControleQuartoOFF.java" />
         <option value="$PROJECT_DIR$/src/command/ControleQuartoON.java" />
         <option value="$PROJECT_DIR$/src/command/ControleSalaOFF.java" />
-        <option value="$PROJECT_DIR$/src/command/ControleSalaON.java" />
+        <option value="$PROJECT_DIR$/WebContent/controle.jsp" />
       </list>
     </option>
   </component>
@@ -438,6 +364,18 @@
             <path>
               <item name="Arduino" type="b2602c69:ProjectViewProjectNode" />
               <item name="Arduino" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arduino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arduino" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="DAO" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arduino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arduino" type="462c0819:PsiDirectoryNode" />
               <item name="WebContent" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -455,7 +393,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542669550005" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542672520658" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="D:/Daniel/mysql-connector-java-5.1.38.jar!/" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -628,7 +566,7 @@
       <workItem from="1542637508280" duration="107000" />
       <workItem from="1542637979817" duration="27000" />
       <workItem from="1542659951566" duration="2111000" />
-      <workItem from="1542663395739" duration="4097000" />
+      <workItem from="1542663395739" duration="6837000" />
     </task>
     <task id="LOCAL-00001" summary="New Format">
       <created>1541807416077</created>
@@ -686,14 +624,29 @@
       <option name="project" value="LOCAL" />
       <updated>1542587590502</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Atualização">
+      <created>1542669592434</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1542669592434</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Atualização">
+      <created>1542671851031</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1542671851031</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45134000" />
+    <option name="totallyTimeSpent" value="47874000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -710,7 +663,7 @@
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3295082" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.3295082" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="7" visible="true" weight="0.4" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.3295082" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -1070,13 +1023,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/command/Login.java" />
-    <entry file="file://$PROJECT_DIR$/WebContent/controle.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/test.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -1112,54 +1058,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DAO/ConnectionFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Arduino/SerialInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="381">
           <caret line="109" column="18" selection-start-line="109" selection-start-column="18" selection-end-line="109" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/ControleCozinhaOFF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="32" column="28" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/ControleCozinhaON.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/ControleQuartoON.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/ControleQuartoOFF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="34" selection-start-line="34" selection-end-line="34" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1173,10 +1075,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/ControleSalaOFF.java">
+    <entry file="file://$PROJECT_DIR$/src/command/ControleCozinhaOFF.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        <state relative-caret-position="208">
+          <caret line="36" column="75" selection-start-line="36" selection-start-column="63" selection-end-line="36" selection-end-column="75" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -1185,8 +1087,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/command/ControleSalaON.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        <state relative-caret-position="131">
+          <caret line="36" column="75" selection-start-line="36" selection-start-column="75" selection-end-line="36" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/ControleCozinhaON.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="37" column="75" selection-start-line="37" selection-start-column="75" selection-end-line="37" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/ControleQuartoOFF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="36" column="75" selection-start-line="36" selection-start-column="75" selection-end-line="36" selection-end-column="75" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/ControleQuartoON.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="37" column="75" selection-start-line="37" selection-start-column="75" selection-end-line="37" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/ControleSalaOFF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/controle.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="52" lean-forward="true" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DAO/ConnectionFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="40" selection-start-line="15" selection-start-column="40" selection-end-line="15" selection-end-column="40" />
         </state>
       </provider>
     </entry>

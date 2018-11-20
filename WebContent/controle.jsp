@@ -64,12 +64,12 @@
                                 <p class="card-text">Controle de luzes para a sala.</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <label class="btn btn-sm btn-outline-secondary">
-                                        <input type="submit" name="command" value="ControleSalaON" id="option1"
-                                               autocomplete="off" checked> Ligar
+                                        <button type="submit" name="command" value="ControleSalaON" id="option1"
+                                                autocomplete="off" checked> Ligar</button>
                                     </label>
                                     <label class="btn btn-sm btn-outline-secondary">
-                                        <input type="submit" name="command" value="ControleSalaOFF" id="option2"
-                                               autocomplete="off"> Desligar
+                                        <button type="submit" name="command" value="ControleSalaOFF" id="option2"
+                                                autocomplete="off"> Desligar</button>
                                     </label>
                                     <small class="text-muted">Sala</small>
                                 </div>
@@ -83,12 +83,12 @@
                                 <p class="card-text">Controle de luzes para a cozinha.</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <label class="btn btn-sm btn-outline-secondary">
-                                        <input type="submit" name="command" value="ControleCozinhaON" id="option1"
-                                               autocomplete="off" checked> Ligar
+                                        <button type="submit" name="command" value="ControleCozinhaON" id="option1"
+                                                autocomplete="off" checked> Ligar</button>
                                     </label>
                                     <label class="btn btn-sm btn-outline-secondary">
-                                        <input type="submit" name="command" value="ControleCozinhaOFF" id="option2"
-                                               autocomplete="off"> Desligar
+                                        <button type="submit" name="command" value="ControleCozinhaOFF" id="option2"
+                                                autocomplete="off"> Desligar</button>
                                     </label>
                                     <small class="text-muted">Cozinha</small>
                                 </div>
