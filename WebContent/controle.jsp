@@ -65,11 +65,13 @@
                                 <div class="d-flex justify-content-between align-items-center">
                                     <label class="btn btn-sm btn-outline-secondary">
                                         <button type="submit" name="command" value="ControleSalaON" id="option1"
-                                                autocomplete="off" checked> Ligar</button>
+                                                autocomplete="off" checked> Ligar
+                                        </button>
                                     </label>
                                     <label class="btn btn-sm btn-outline-secondary">
                                         <button type="submit" name="command" value="ControleSalaOFF" id="option2"
-                                                autocomplete="off"> Desligar</button>
+                                                autocomplete="off"> Desligar
+                                        </button>
                                     </label>
                                     <small class="text-muted">Sala</small>
                                 </div>
@@ -84,11 +86,13 @@
                                 <div class="d-flex justify-content-between align-items-center">
                                     <label class="btn btn-sm btn-outline-secondary">
                                         <button type="submit" name="command" value="ControleCozinhaON" id="option1"
-                                                autocomplete="off" checked> Ligar</button>
+                                                autocomplete="off" checked> Ligar
+                                        </button>
                                     </label>
                                     <label class="btn btn-sm btn-outline-secondary">
                                         <button type="submit" name="command" value="ControleCozinhaOFF" id="option2"
-                                                autocomplete="off"> Desligar</button>
+                                                autocomplete="off"> Desligar
+                                        </button>
                                     </label>
                                     <small class="text-muted">Cozinha</small>
                                 </div>
