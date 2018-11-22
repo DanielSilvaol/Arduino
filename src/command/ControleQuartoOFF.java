@@ -29,7 +29,7 @@ public class ControleQuartoOFF implements Command {
         ConsumoService service = new ConsumoService();
 
         service.desligaLed("QUARTO");
-        String comando = "0";
+        String comando = "2";
         si.write(comando.getBytes());
         usuario.setLigaDesligaQuarto(0);
 

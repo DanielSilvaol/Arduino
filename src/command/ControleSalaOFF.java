@@ -28,7 +28,7 @@ public class ControleSalaOFF implements Command {
         ConsumoService service = new ConsumoService();
 
         service.desligaLed("SALA");
-        String comando = "0";
+        String comando = "4";
         si.write(comando.getBytes());
         usuario.setLigaDesligaSala(0);
 

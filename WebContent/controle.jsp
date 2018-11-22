@@ -27,6 +27,11 @@
             </div>
         </div>
     </header>
+
+
+
+
+
     <main role="main">
 
 
@@ -41,14 +46,12 @@
                                 <p class="card-text">Controle de luzes para o quarto.</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <label class="btn btn-sm btn-outline-secondary">
-                                        <button type="submit" name="command" value="ControleQuartoON" id="option1"
-                                                autocomplete="off" checked> Ligar
+                                        <button type="submit" name="command" value="ControleQuartoON" autocomplete="off" checked> Ligar
                                         </button>
                                     </label>
 
                                     <label class="btn btn-sm btn-outline-secondary">
-                                        <button type="submit" name="command" value="ControleQuartoOFF" id="option2"
-                                                autocomplete="off"> Desligar
+                                        <button type="submit" name="command" value="ControleQuartoOFF" autocomplete="off"> Desligar
                                         </button>
                                     </label>
 
@@ -64,12 +67,12 @@
                                 <p class="card-text">Controle de luzes para a sala.</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <label class="btn btn-sm btn-outline-secondary">
-                                        <button type="submit" name="command" value="ControleSalaON" id="option1"
+                                        <button type="submit" name="command" value="ControleSalaON"
                                                 autocomplete="off" checked> Ligar
                                         </button>
                                     </label>
                                     <label class="btn btn-sm btn-outline-secondary">
-                                        <button type="submit" name="command" value="ControleSalaOFF" id="option2"
+                                        <button type="submit" name="command" value="ControleSalaOFF"
                                                 autocomplete="off"> Desligar
                                         </button>
                                     </label>
@@ -85,12 +88,12 @@
                                 <p class="card-text">Controle de luzes para a cozinha.</p>
                                 <div class="d-flex justify-content-between align-items-center">
                                     <label class="btn btn-sm btn-outline-secondary">
-                                        <button type="submit" name="command" value="ControleCozinhaON" id="option1"
+                                        <button type="submit" name="command" value="ControleCozinhaON"
                                                 autocomplete="off" checked> Ligar
                                         </button>
                                     </label>
                                     <label class="btn btn-sm btn-outline-secondary">
-                                        <button type="submit" name="command" value="ControleCozinhaOFF" id="option2"
+                                        <button type="submit" name="command" value="ControleCozinhaOFF"
                                                 autocomplete="off"> Desligar
                                         </button>
                                     </label>

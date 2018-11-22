@@ -28,7 +28,7 @@ public class ControleSalaON implements Command {
         SerialInterface si = ArduinoDAO.getSerialInterface(request);
         ConsumoService service = new ConsumoService();
 
-        String comando = "1";
+        String comando = "5";
         si.write(comando.getBytes());
         service.ligaLed("SALA");
         usuario.setLigaDesligaSala(1);

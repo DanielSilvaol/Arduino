@@ -29,7 +29,7 @@ public class ControleQuartoON implements Command {
         SerialInterface si = ArduinoDAO.getSerialInterface(request);
         ConsumoService service = new ConsumoService();
 
-        String comando = "1";
+        String comando = "3";
         si.write(comando.getBytes());
         service.ligaLed("QUARTO");
         usuario.setLigaDesligaQuarto(1);
