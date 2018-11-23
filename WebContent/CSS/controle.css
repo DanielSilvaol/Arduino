@@ -35,3 +35,78 @@ footer {
 footer p {
   margin-bottom: .25rem;
 }
+
+#background {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+nav{
+  height: 60px;
+  position: relative;
+}
+
+#Home:hover{
+  border: 1px solid #FFF;
+}
+
+#Consumo:hover{
+  border: 1px solid #FFF;
+}
+
+#menu{
+  top: 5px;
+}
+
+#menu .container{
+  width: 100%;
+}
+
+#menu ul{
+  padding-left: 0px;
+}
+
+.teste > li{
+  display: inline-block;
+  margin-right: 0px;
+}
+
+#menu li a:hover{
+  border-bottom: 1px solid #FFF;
+  color: #FFF;
+}
+
+#menu li a{
+  margin-right: 0px;
+  color: #FFD700;
+}
+
+.pull-right{
+  text-align: right;
+}
+
+.btn-pull{
+  float: right;
+}
+
+#teste{
+  transition: 1s;
+}
+
+header.consumo #consumoteste1{
+  display: block;
+  position: fixed;
+}
+
+#consumoteste1{
+  display: none;
+}
+
+main{
+  margin-top: 110px;
+}
+
+.card-text{
+  text-align: center;
+}

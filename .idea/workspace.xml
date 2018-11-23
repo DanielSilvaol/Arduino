@@ -7,13 +7,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c43028e7-d214-4fa8-a695-d2d6591ec7e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_mysql_connector_java_5_1_46.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Arduino_Web_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Arduino_Web_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/mysql_mysql_connector_java_8_0_13.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/IMG/imgpsh_fullsize.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/IMG/teste.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/JS/efeitos.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/JS/jquery/jquery.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arduino.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Arduino.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/CSS/controle.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/CSS/controle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/ConsMes.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/ConsMes.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/ConsSemana.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/ConsSemana.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/controle.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/controle.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/index2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/index2.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,11 +40,6 @@
       <path>
         <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
         <item name="@localhost" type="feb32156:DbDataSourceImpl" />
-      </path>
-      <path>
-        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
-        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
-        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
       </path>
     </expand>
     <select />
@@ -141,13 +139,14 @@
     <session id="71904262">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="11" />
+          <entry key="project.closed" value="12" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.24" value="1" />
           <entry key="project.open.time.29" value="2" />
           <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.37" value="2" />
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.45" value="1" />
@@ -156,57 +155,59 @@
           <entry key="project.open.time.69" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="16" />
+          <entry key="project.opened" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="5" />
-          <entry key="css" value="1" />
+          <entry key="class" value="7" />
+          <entry key="css" value="5" />
           <entry key="git" value="1" />
           <entry key="html" value="2" />
           <entry key="ino" value="2" />
-          <entry key="java" value="50" />
-          <entry key="jsp" value="15" />
-          <entry key="sql" value="7" />
+          <entry key="java" value="52" />
+          <entry key="js" value="2" />
+          <entry key="jsp" value="22" />
+          <entry key="sql" value="10" />
           <entry key="vmoptions" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="5" />
-          <entry key="CSS" value="1" />
+          <entry key="CLASS" value="7" />
+          <entry key="CSS" value="5" />
           <entry key="HTML" value="2" />
-          <entry key="JAVA" value="50" />
-          <entry key="JSP" value="15" />
+          <entry key="JAVA" value="52" />
+          <entry key="JSP" value="22" />
+          <entry key="JavaScript" value="2" />
           <entry key="PLAIN_TEXT" value="3" />
-          <entry key="SQL" value="2" />
-          <entry key="Scratch" value="5" />
+          <entry key="SQL" value="3" />
+          <entry key="Scratch" value="7" />
           <entry key="UNKNOWN" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="cell" value="1" />
-          <entry key="css" value="11" />
+          <entry key="css" value="13" />
           <entry key="dummy" value="7" />
           <entry key="html" value="54" />
-          <entry key="java" value="1270" />
-          <entry key="jsp" value="658" />
-          <entry key="sql" value="215" />
+          <entry key="java" value="1284" />
+          <entry key="jsp" value="837" />
+          <entry key="sql" value="256" />
           <entry key="txt" value="11" />
           <entry key="vmoptions" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="11" />
+          <entry key="CSS" value="13" />
           <entry key="HTML" value="54" />
-          <entry key="JAVA" value="1270" />
-          <entry key="JSP" value="658" />
+          <entry key="JAVA" value="1284" />
+          <entry key="JSP" value="837" />
           <entry key="PLAIN_TEXT" value="25" />
           <entry key="SQL" value="8" />
-          <entry key="Scratch" value="208" />
+          <entry key="Scratch" value="249" />
         </counts>
       </usages-collector>
     </session>
@@ -214,61 +215,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/command/ControleQuartoOFF.java">
+        <entry file="file://$PROJECT_DIR$/WebContent/controle.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
+            <state relative-caret-position="231">
+              <caret line="32" column="146" selection-start-line="32" selection-start-column="146" selection-end-line="32" selection-end-column="146" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1698#1706#0#HTML" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/command/ControleQuartoON.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="31" column="27" selection-start-line="31" selection-start-column="27" selection-end-line="31" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/command/ControleSalaOFF.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DAO/ConnectionFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="13" column="147" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="147" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/command/ControleSalaON.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/WebContent/index2.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -276,35 +229,59 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebContent/ConsSemana.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+            <state relative-caret-position="92">
+              <caret line="19" column="167" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="167" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebContent/CSS/controle.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="105" column="5" selection-start-line="105" selection-start-column="5" selection-end-line="105" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/aaf491b7-8e6b-481e-9d49-53f7fe12566a/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="39">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WebContent/ConsMes.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="19" column="138" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="138" />
+            <state relative-caret-position="170">
+              <caret line="108" column="47" selection-start-line="108" selection-start-column="47" selection-end-line="108" selection-end-column="47" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c7951b16-180d-42ba-a967-a7e5fa75f591/console.sql">
+        <entry file="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/gson-2.2.2.jar!/com/google/gson/Gson.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="271">
-              <caret line="33" column="59" lean-forward="true" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+            <state relative-caret-position="127">
+              <caret line="272" selection-start-line="272" selection-end-line="272" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebContent/controle.jsp">
+        <entry file="file://$PROJECT_DIR$/WebContent/index2.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="57" selection-start-line="57" selection-end-line="57" />
+            <state relative-caret-position="313">
+              <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -323,6 +300,7 @@
     <findStrings>
       <find>valor</find>
       <find>option1</find>
+      <find>main</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -364,8 +342,6 @@
         <option value="$PROJECT_DIR$/src/command/Login.java" />
         <option value="$PROJECT_DIR$/src/DAO/ConnectionFactory.java" />
         <option value="$PROJECT_DIR$/src/command/ControleCozinhaON.java" />
-        <option value="$PROJECT_DIR$/WebContent/CSS/controle.css" />
-        <option value="$PROJECT_DIR$/WebContent/controle.jsp" />
         <option value="$PROJECT_DIR$/src/command/ControleCozinhaOFF.java" />
         <option value="$PROJECT_DIR$/WebContent/Teste.jsp" />
         <option value="$PROJECT_DIR$/src/command/Teste.java" />
@@ -374,11 +350,14 @@
         <option value="$PROJECT_DIR$/src/command/ControleSalaOFF.java" />
         <option value="$PROJECT_DIR$/src/command/ControleSalaON.java" />
         <option value="$PROJECT_DIR$/WebContent/index.jsp" />
-        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/aaf491b7-8e6b-481e-9d49-53f7fe12566a/console.sql" />
-        <option value="$PROJECT_DIR$/WebContent/index2.jsp" />
-        <option value="$PROJECT_DIR$/WebContent/ConsSemana.jsp" />
-        <option value="$PROJECT_DIR$/WebContent/ConsMes.jsp" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/c7951b16-180d-42ba-a967-a7e5fa75f591/console.sql" />
+        <option value="$PROJECT_DIR$/WebContent/JS/jquery/jquery.min.js" />
+        <option value="$PROJECT_DIR$/WebContent/ConsSemana.jsp" />
+        <option value="$PROJECT_DIR$/WebContent/CSS/controle.css" />
+        <option value="$PROJECT_DIR$/WebContent/controle.jsp" />
+        <option value="$PROJECT_DIR$/WebContent/index2.jsp" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/aaf491b7-8e6b-481e-9d49-53f7fe12566a/console.sql" />
+        <option value="$PROJECT_DIR$/WebContent/ConsMes.jsp" />
       </list>
     </option>
   </component>
@@ -450,6 +429,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -466,24 +446,23 @@
               <item name="Arduino" type="b2602c69:ProjectViewProjectNode" />
               <item name="Arduino" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Arduino" type="b2602c69:ProjectViewProjectNode" />
               <item name="Arduino" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DAO" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Arduino" type="b2602c69:ProjectViewProjectNode" />
               <item name="Arduino" type="462c0819:PsiDirectoryNode" />
               <item name="WebContent" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Arduino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arduino" type="462c0819:PsiDirectoryNode" />
+              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -494,9 +473,9 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542854798915" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542943904531" />
     <property name="database.console.LAST_STATE" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/WebContent/WEB-INF/lib/gson-2.2.2.jar!/" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Teste" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -507,18 +486,19 @@
     <key name="OPEN_URL_DIALOG">
       <recent name="https://github.com/joaorodrigues2012/Arduino.git" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\odsda\IdeaProjects\Arduino\WebContent\IMG" />
+      <recent name="C:\Users\odsda\IdeaProjects\Arduino\WebContent" />
+      <recent name="C:\Users\odsda\IdeaProjects\Arduino\WebContent\CSS" />
+      <recent name="D:\Programas\Arduino\src" />
+      <recent name="F:\Programas\Arduino\WebContent\WEB-INF\lib" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\odsda\IdeaProjects\Arduino\WebContent\CSS" />
       <recent name="C:\Users\odsda\IdeaProjects\Arduino\WebContent\IMG" />
       <recent name="C:\Users\odsda\IdeaProjects\Arduino\WebContent\WEB-INF\lib" />
       <recent name="C:\Users\odsda\IdeaProjects\Arduino\WebContent" />
       <recent name="C:\Users\odsda\IdeaProjects\Arduino\src\Arduino" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Programas\Arduino\src" />
-      <recent name="F:\Programas\Arduino\WebContent\WEB-INF\lib" />
-      <recent name="F:\Programas\Arduino\WebContent" />
-      <recent name="F:\Programas\Arduino\src\main\java" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -674,7 +654,8 @@
       <workItem from="1542677104263" duration="6309000" />
       <workItem from="1542850974485" duration="3592000" />
       <workItem from="1542854936925" duration="1229000" />
-      <workItem from="1542858299436" duration="523000" />
+      <workItem from="1542858299436" duration="586000" />
+      <workItem from="1542938012702" duration="5622000" />
     </task>
     <task id="LOCAL-00001" summary="New Format">
       <created>1541807416077</created>
@@ -767,11 +748,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542855050546</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Atualização">
+      <created>1542858864734</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1542858864734</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="60907000" />
+    <option name="totallyTimeSpent" value="66592000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -782,16 +770,16 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.4987775" visible="true" weight="0.21785174" />
-      <window_info id="Structure" order="6" sideWeight="0.5012225" side_tool="true" weight="0.2655068" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49514562" weight="0.21785174" />
+      <window_info id="Structure" order="6" sideWeight="0.5048544" side_tool="true" weight="0.21785174" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50075644" side_tool="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49924356" weight="0.3295082" />
       <window_info anchor="bottom" id="Debug" order="7" visible="true" weight="0.3327869" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.3295082" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
@@ -817,28 +805,28 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.4987775" visible="true" weight="0.20877458" />
-      <window_info id="Structure" order="6" sideWeight="0.5012225" side_tool="true" weight="0.2655068" />
+      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49514562" visible="true" weight="0.21785174" />
+      <window_info id="Structure" order="6" sideWeight="0.5048544" side_tool="true" visible="true" weight="0.21785174" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.3295082" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50075644" side_tool="true" weight="0.3295082" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.3295082" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49924356" weight="0.3295082" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3327869" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.3295082" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Application Servers" order="12" weight="0.3295082" />
-      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32459018" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="13" visible="true" weight="0.32459018" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
       <window_info anchor="bottom" id="Serial Monitor" order="15" weight="0.3295082" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Database" order="2" weight="0.32980332" />
+      <window_info anchor="right" id="Database" order="2" weight="0.30786687" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Maven Projects" order="4" weight="0.32980332" />
       <window_info anchor="right" id="Palette" order="5" />
@@ -928,6 +916,11 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
       <expression>
+        <expression-string>map = new HashMap&lt;Object,Object&gt;(); map.put(&quot;label&quot;, xVal); map.put(&quot;y&quot;, Integer.parseInt(yVal)); list.add(map);</expression-string>
+        <language-id>JSP</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>String stringConexao = &quot;jdbc:mysql://localhost:3306/&quot;+db+&quot;?autoReconnect=true&amp;useSSL=true/&quot;;
 
 				return DriverManager.getConnection(stringConexao, &quot;root&quot;, &quot;root&quot;)</expression-string>
@@ -987,61 +980,53 @@
     </expressions>
     <expressions id="evaluateExpression">
       <expression>
+        <expression-string>yVal = rs.getString(&quot;valor&quot;)</expression-string>
+        <language-id>JSP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>map.put(&quot;y&quot;, Integer.valueOf(yVal));</expression-string>
+        <language-id>JSP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>map.put(&quot;y&quot;, String.valueOf(yVal));</expression-string>
+        <language-id>JSP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>map.put(&quot;y&quot;, Double.valueOf(yVal));</expression-string>
+        <language-id>JSP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>map.put(&quot;y&quot;, Integer.parseInt(yVal));</expression-string>
+        <language-id>JSP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>map.put(&quot;y&quot;, yVal);</expression-string>
+        <language-id>JSP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>map.put(&quot;y&quot;, yVal)</expression-string>
+        <language-id>JSP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>dataPoints = gsonObj.toJson(list)</expression-string>
+        <language-id>JSP</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>DriverManager.getConnection(&quot;jdbc:mysql://127.0.0.1:3306/arduino?useTimezone=true&amp;serverTimezone=UTC&amp;user=root&amp;password=root&quot;)</expression-string>
         <language-id>JSP</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>DriverManager.getConnection(&quot;jdbc:mysql://localhost/arduino?user=root&amp;password=root&quot;)</expression-string>
-        <language-id>JSP</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>DriverManager.getConnection(&quot;jdbc:mysql://localhost/arduinouser=root&amp;password=root&quot;)</expression-string>
-        <language-id>JSP</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>DriverManager.getConnection(&quot;jdbc:mysql://localhost/arduino1?user=root&amp;password=root&quot;)</expression-string>
-        <language-id>JSP</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>DriverManager.getConnection(&quot;jdbc:mysql://localhost/arduino1?user=root&amp;password=&quot;)</expression-string>
-        <language-id>JSP</language-id>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>DriverManager.getConnection(&quot;jdbc:mysql://127.0.0.1:3306/arduino?useTimezone=true&amp;serverTimezone=UTC&amp;user=root&amp;password=root&quot;)</expression-string>
-        <language-id>JSP</language-id>
-        <custom-info>java.sql.DriverManager</custom-info>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>DriverManager.getConnection(&quot;jdbc:mysql://127.0.0.1:3306/Arduino?useTimezone=true&amp;serverTimezone=UTC&amp;user=root&amp;password=root&quot;)</expression-string>
-        <language-id>JSP</language-id>
-        <custom-info>java.sql.DriverManager</custom-info>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>DriverManager.getConnection(&quot;jdbc:mysql://127.0.0.1:08001/arduino?useTimezone=true&amp;serverTimezone=UTC&amp;user=root&amp;password=root&quot;)</expression-string>
-        <language-id>JSP</language-id>
-        <custom-info>java.sql.DriverManager</custom-info>
-        <evaluation-mode>EXPRESSION</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>DriverManager.getConnection(&quot;jdbc:mysql://127.0.0.1/arduino?useTimezone=true&amp;serverTimezone=UTC&amp;user=root&amp;password=root&quot;)</expression-string>
-        <language-id>JSP</language-id>
-        <custom-info>java.sql.DriverManager</custom-info>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://F:/Daniel/mysql-connector-java-5.1.38.jar!/com/mysql/jdbc/ConnectionImpl.class" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_162/src.zip!/java/lang/String.java" />
-    <entry file="jar://F:/Daniel/mysql-connector-java-5.1.38.jar!/com/mysql/jdbc/ResultSetImpl.class" />
-    <entry file="jar://F:/Daniel/mysql-connector-java-5.1.38.jar!/com/mysql/jdbc/StatementImpl.class" />
     <entry file="jar://F:/Daniel/mysql-connector-java-5.1.38.jar!/com/mysql/jdbc/PreparedStatement.class" />
     <entry file="jar://F:/Daniel/mysql-connector-java-5.1.38.jar!/com/mysql/fabric/jdbc/FabricMySQLDriver.class" />
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/86c3d154-1f1a-4150-bba3-e15c3352208c/console.sql" />
@@ -1119,13 +1104,6 @@
     </entry>
     <entry file="jar://D:/Daniel/mysql-connector-java-5.1.38.jar!/com/mysql/jdbc/AbandonedConnectionCleanupThread.class" />
     <entry file="jar://D:/Daniel/mysql-connector-java-5.1.38.jar!/com/mysql/jdbc/NonRegisteringDriver.class" />
-    <entry file="file://$PROJECT_DIR$/WebContent/banco.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/DAO/ConsumoDAO.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1479">
@@ -1165,16 +1143,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/CSS/controle.css">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arduino/SerialInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1632">
-          <caret line="109" column="18" selection-start-line="109" selection-start-column="18" selection-end-line="109" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/command/Teste.java" />
     <entry file="file://$PROJECT_DIR$/WebContent/Teste.jsp" />
     <entry file="file://$PROJECT_DIR$/src/command/ControleCozinhaOFF.java">
@@ -1206,13 +1174,6 @@
     <entry file="file://$PROJECT_DIR$/WebContent/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1411" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/command/ControleCozinhaON.java">
@@ -1259,52 +1220,121 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/aaf491b7-8e6b-481e-9d49-53f7fe12566a/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="9" column="2" lean-forward="true" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/command/ControleSalaON.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
+        <state relative-caret-position="340">
           <caret line="30" column="27" selection-start-line="30" selection-start-column="27" selection-end-line="30" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c7951b16-180d-42ba-a967-a7e5fa75f591/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="271">
-          <caret line="33" column="59" lean-forward="true" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+        <state relative-caret-position="561">
+          <caret line="33" column="59" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/JS/jquery/jquery.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="1803" column="42" lean-forward="true" selection-start-line="1803" selection-start-column="42" selection-end-line="1803" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/banco.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="20" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arduino/SerialInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="110" lean-forward="true" selection-start-line="110" selection-end-line="110" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/JS/efeitos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/CSS/controle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="307">
+          <caret line="105" column="5" selection-start-line="105" selection-start-column="5" selection-end-line="105" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/controle.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="57" selection-start-line="57" selection-end-line="57" />
+        <state relative-caret-position="231">
+          <caret line="32" column="146" selection-start-line="32" selection-start-column="146" selection-end-line="32" selection-end-column="146" />
+          <folding>
+            <element signature="e#1698#1706#0#HTML" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/ConsMes.jsp">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/HashMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="19" column="138" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="138" />
+        <state relative-caret-position="127">
+          <caret line="474" selection-start-line="474" selection-end-line="474" />
+          <folding>
+            <element signature="e#19327#19328#0" expanded="true" />
+            <element signature="e#19410#19411#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/ConsSemana.jsp">
+    <entry file="jar://$PROJECT_DIR$/WebContent/WEB-INF/lib/gson-2.2.2.jar!/com/google/gson/Gson.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="18" column="22" lean-forward="true" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        <state relative-caret-position="127">
+          <caret line="272" selection-start-line="272" selection-end-line="272" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/index2.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="61" column="1" selection-start-line="61" selection-start-column="1" selection-end-line="61" selection-end-column="1" />
+        <state relative-caret-position="313">
+          <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/ConsSemana.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="19" column="167" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="167" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/aaf491b7-8e6b-481e-9d49-53f7fe12566a/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/ConsMes.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="108" column="47" selection-start-line="108" selection-start-column="47" selection-end-line="108" selection-end-column="47" />
         </state>
       </provider>
     </entry>
