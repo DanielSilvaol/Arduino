@@ -52,11 +52,10 @@ public class ConsumoDAO {
         Consumo consumo = new Consumo();
         LocalDateTime localDateTime = timestamp.toInstant().atZone(ZoneId.systemDefault()).toLocalDateTime();
         int result = consumo.getTempo(localDateTime);
-        int valorConsumo = result * 60;
 
 
         String sql2 = "update Consumo set valor = (?) where nome = (?) order by id desc limit 1";
-        Consumo(comodo, valorConsumo, sql2);
+        Consumo(comodo, result, sql2);
         LocalDateTime horaFinal = LocalDateTime.now();
         Timestamp timestamp1 = Timestamp.from(horaFinal.atZone(ZoneId.systemDefault()).toInstant());
         String sql3 = "update Consumo set DataInicial = (?) where nome = (?) order by id desc limit 1";

@@ -4,6 +4,8 @@ public class Usuario {
 
     private int id;
     private String nome;
+    private String username;
+    private String senha;
     private int ligaDesligaCozinha;
     private int ligaDesligaQuarto;
     private int ligaDesligaSala;
@@ -11,6 +13,13 @@ public class Usuario {
     private boolean statusQuarto;
     private boolean statusSala;
 
+    public String getUsername() {
+        return username;
+    }
+
+    public void setUsername(String username) {
+        this.username = username;
+    }
 
     public int getLigaDesligaCozinha() {
         return ligaDesligaCozinha;
@@ -74,5 +83,13 @@ public class Usuario {
 
     public void setNome(String nome) {
         this.nome = nome;
+    }
+
+    public String getSenha() {
+        return senha;
+    }
+
+    public void setSenha(String senha) {
+        this.senha = senha;
     }
 }
