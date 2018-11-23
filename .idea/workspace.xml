@@ -7,15 +7,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c43028e7-d214-4fa8-a695-d2d6591ec7e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WebContent/IMG/imgpsh_fullsize.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/IMG/teste.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/JS/efeitos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/JS/jquery/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/CSS/controle.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/CSS/controle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebContent/ConsMes.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/ConsMes.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebContent/ConsSemana.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/ConsSemana.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/controle.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/controle.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebContent/index2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/index2.jsp" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
@@ -163,7 +158,7 @@
           <entry key="class" value="7" />
           <entry key="css" value="5" />
           <entry key="git" value="1" />
-          <entry key="html" value="2" />
+          <entry key="html" value="3" />
           <entry key="ino" value="2" />
           <entry key="java" value="52" />
           <entry key="js" value="2" />
@@ -176,7 +171,7 @@
         <counts>
           <entry key="CLASS" value="7" />
           <entry key="CSS" value="5" />
-          <entry key="HTML" value="2" />
+          <entry key="HTML" value="3" />
           <entry key="JAVA" value="52" />
           <entry key="JSP" value="22" />
           <entry key="JavaScript" value="2" />
@@ -193,7 +188,7 @@
           <entry key="dummy" value="7" />
           <entry key="html" value="54" />
           <entry key="java" value="1284" />
-          <entry key="jsp" value="837" />
+          <entry key="jsp" value="844" />
           <entry key="sql" value="256" />
           <entry key="txt" value="11" />
           <entry key="vmoptions" value="7" />
@@ -204,7 +199,7 @@
           <entry key="CSS" value="13" />
           <entry key="HTML" value="54" />
           <entry key="JAVA" value="1284" />
-          <entry key="JSP" value="837" />
+          <entry key="JSP" value="844" />
           <entry key="PLAIN_TEXT" value="25" />
           <entry key="SQL" value="8" />
           <entry key="Scratch" value="249" />
@@ -229,9 +224,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebContent/ConsSemana.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="19" column="167" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="167" />
+            <state relative-caret-position="375">
+              <caret line="90" column="37" lean-forward="true" selection-start-line="90" selection-start-column="37" selection-end-line="90" selection-end-column="37" />
               <folding>
+                <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -256,11 +253,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebContent/ConsMes.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="108" column="47" selection-start-line="108" selection-start-column="47" selection-end-line="108" selection-end-column="47" />
+            <state relative-caret-position="289">
+              <caret line="86" column="172" selection-start-line="86" selection-start-column="172" selection-end-line="86" selection-end-column="172" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -274,12 +276,14 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WebContent/index2.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
+            <state relative-caret-position="154">
+              <caret line="92" column="31" selection-start-line="92" selection-start-column="31" selection-end-line="92" selection-end-column="31" />
               <folding>
+                <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
@@ -352,12 +356,12 @@
         <option value="$PROJECT_DIR$/WebContent/index.jsp" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/c7951b16-180d-42ba-a967-a7e5fa75f591/console.sql" />
         <option value="$PROJECT_DIR$/WebContent/JS/jquery/jquery.min.js" />
-        <option value="$PROJECT_DIR$/WebContent/ConsSemana.jsp" />
         <option value="$PROJECT_DIR$/WebContent/CSS/controle.css" />
         <option value="$PROJECT_DIR$/WebContent/controle.jsp" />
-        <option value="$PROJECT_DIR$/WebContent/index2.jsp" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/aaf491b7-8e6b-481e-9d49-53f7fe12566a/console.sql" />
+        <option value="$PROJECT_DIR$/WebContent/ConsSemana.jsp" />
         <option value="$PROJECT_DIR$/WebContent/ConsMes.jsp" />
+        <option value="$PROJECT_DIR$/WebContent/index2.jsp" />
       </list>
     </option>
   </component>
@@ -473,7 +477,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542943904531" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542945202276" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Teste" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -655,7 +659,7 @@
       <workItem from="1542850974485" duration="3592000" />
       <workItem from="1542854936925" duration="1229000" />
       <workItem from="1542858299436" duration="586000" />
-      <workItem from="1542938012702" duration="5622000" />
+      <workItem from="1542938012702" duration="6658000" />
     </task>
     <task id="LOCAL-00001" summary="New Format">
       <created>1541807416077</created>
@@ -755,11 +759,18 @@
       <option name="project" value="LOCAL" />
       <updated>1542858864734</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Atualização">
+      <created>1542943921296</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1542943921296</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66592000" />
+    <option name="totallyTimeSpent" value="67628000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -770,7 +781,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" sideWeight="0.49514562" weight="0.21785174" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" sideWeight="0.49514562" visible="true" weight="0.21785174" />
       <window_info id="Structure" order="6" sideWeight="0.5048544" side_tool="true" weight="0.21785174" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -780,7 +791,7 @@
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3295082" />
       <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49924356" weight="0.3295082" />
-      <window_info anchor="bottom" id="Debug" order="7" visible="true" weight="0.3327869" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3327869" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.3295082" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -1171,11 +1182,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1411" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/command/ControleCozinhaON.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
@@ -1304,26 +1310,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/index2.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="27" column="48" selection-start-line="27" selection-start-column="48" selection-end-line="27" selection-end-column="48" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/ConsSemana.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="19" column="167" lean-forward="true" selection-start-line="19" selection-start-column="36" selection-end-line="19" selection-end-column="167" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/aaf491b7-8e6b-481e-9d49-53f7fe12566a/console.sql">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="39">
@@ -1331,10 +1317,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-102" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/ConsSemana.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="90" column="37" lean-forward="true" selection-start-line="90" selection-start-column="37" selection-end-line="90" selection-end-column="37" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/ConsMes.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="108" column="47" selection-start-line="108" selection-start-column="47" selection-end-line="108" selection-end-column="47" />
+        <state relative-caret-position="289">
+          <caret line="86" column="172" selection-start-line="86" selection-start-column="172" selection-end-line="86" selection-end-column="172" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/index2.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="92" column="31" selection-start-line="92" selection-start-column="31" selection-end-line="92" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#li#2;n#ul#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#main#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

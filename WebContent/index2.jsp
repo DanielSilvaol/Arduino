@@ -90,11 +90,11 @@
                                class="btn btn-default navbar-brand d-flex align-items-center"><strong>Home</strong></a>
                         </li>
                         <li><a href="controle.jsp" class="btn btn-default navbar-brand d-flex align-items-center"
-                               style="color: #FFF; border-bottom: 1px solid #FFF;"><strong>Controle</strong></a></li>
+                               ><strong>Controle</strong></a></li>
                         <li><a href="#" class="btn btn-default navbar-brand d-flex align-items-center"
-                               id="consumoteste"><strong>Consumo</strong></a>
+                               id="consumoteste" style="color: #FFF; border-bottom: 1px solid #FFF;"><strong>Consumo</strong></a>
                             <ul id="consumoteste1">
-                                <li><a href="index2.jsp" class="btn btn-default navbar-brand d-flex align-items-center"><strong>Diário</strong></a>
+                                <li><a href="index2.jsp" class="btn btn-default navbar-brand d-flex align-items-center" style="color: #FFF; border-bottom: 1px solid #FFF;"><strong>Diário</strong></a>
                                 </li>
                                 <li><a href="ConsSemana.jsp"
                                        class="btn btn-default navbar-brand d-flex align-items-center"><strong>Semanal</strong></a>
