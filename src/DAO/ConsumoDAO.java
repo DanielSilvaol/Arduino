@@ -48,7 +48,8 @@ public class ConsumoDAO {
         }
         String Update_DIA = "update Consumo set contagem_dia = (?) where nome = (?) order by id desc limit 1";
         if (Verifica_dia >= DiaAtual) {
-            try (Connection connection = ConnectionFactory.obtemConexao(); PreparedStatement statement = connection.prepareStatement(Update_DIA)) {
+            try (Connection connection = ConnectionFactory.obtemConexao();
+                PreparedStatement statement = connection.prepareStatement(Update_DIA)) {
                 int aux = DiaAtual + 1;
                 statement.setInt(1, aux);
                 statement.setString(2, comodo);
@@ -57,7 +58,8 @@ public class ConsumoDAO {
                 e.getErrorCode();
             }
         } else {
-            try (Connection connection = ConnectionFactory.obtemConexao(); PreparedStatement statement = connection.prepareStatement(Update_DIA)) {
+            try (Connection connection = ConnectionFactory.obtemConexao();
+                 PreparedStatement statement = connection.prepareStatement(Update_DIA)) {
                 statement.setInt(1, DiaAtual);
                 statement.setString(2, comodo);
                 statement.execute();
@@ -66,13 +68,22 @@ public class ConsumoDAO {
             }
         }
 
-        String sql = "insert into Consumo (nome,data_inicial,contagem_dia) values (?,now(),(?))";
+        String sql = "Insert into Consumo (nome,data_inicial,contagem_dia,STATUS) values ((?),now(),(?),1)";
         try (Connection conn1 = ConnectionFactory.obtemConexao();
              PreparedStatement stm1 = conn1.prepareStatement(sql);) {
             stm1.setString(1, comodo);
             stm1.setInt(2, DiaAtual);
             stm1.execute();
         } catch (Exception e) {
+            e.printStackTrace();
+        }
+
+        String sqlStatus = "UPDATE Consumo SET STATUS = 1 WHERE nome LIKE (?) ORDER BY id DESC LIMIT 1";
+        try (Connection connection = ConnectionFactory.obtemConexao();
+             PreparedStatement statement = connection.prepareStatement(sqlStatus)) {
+             statement.setString(1,comodo);
+             statement.execute();
+        } catch (SQLException e) {
             e.printStackTrace();
         }
     }
@@ -135,6 +146,14 @@ public class ConsumoDAO {
         } catch (SQLException e) {
             e.printStackTrace();
         }
+        String sqlStatus = "UPDATE Consumo SET STATUS = 0 WHERE nome LIKE (?) ORDER BY id DESC LIMIT 1";
+        try (Connection connection = ConnectionFactory.obtemConexao();
+             PreparedStatement statement = connection.prepareStatement(sqlStatus)) {
+            statement.setString(1,comodo);
+            statement.execute();
+        } catch (SQLException e) {
+            e.printStackTrace();
+        }
     }
 
 
@@ -180,6 +199,9 @@ public class ConsumoDAO {
 
         String SQL4 = "update Consumo set TempoON = (?) where nome = (?) order by id desc limit 1";
         Consumo(comodo, tempoON, SQL4);
+
+
+
     }
 
     private void Consumo(String comodo, int valorConsumo, String sql2) {

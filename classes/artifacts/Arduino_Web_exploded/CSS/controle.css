@@ -1,0 +1,112 @@
+:root {
+  --jumbotron-padding-y: 3rem;
+}
+
+.jumbotron {
+  padding-top: var(--jumbotron-padding-y);
+  padding-bottom: var(--jumbotron-padding-y);
+  margin-bottom: 0;
+  background-color: #fff;
+}
+@media (min-width: 768px) {
+  .jumbotron {
+    padding-top: calc(var(--jumbotron-padding-y) * 2);
+    padding-bottom: calc(var(--jumbotron-padding-y) * 2);
+  }
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+}
+
+.jumbotron-heading {
+  font-weight: 300;
+}
+
+.jumbotron .container {
+  max-width: 40rem;
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
+
+#background {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+nav{
+  height: 60px;
+  position: relative;
+}
+
+#Home:hover{
+  border: 1px solid #FFF;
+}
+
+#Consumo:hover{
+  border: 1px solid #FFF;
+}
+
+#menu{
+  top: 5px;
+}
+
+#menu .container{
+  width: 100%;
+}
+
+#menu ul{
+  padding-left: 0px;
+}
+
+.teste > li{
+  display: inline-block;
+  margin-right: 0px;
+}
+
+#menu li a:hover{
+  border-bottom: 1px solid #FFF;
+  color: #FFF;
+}
+
+#menu li a{
+  margin-right: 0px;
+  color: #FFD700;
+}
+
+.pull-right{
+  text-align: right;
+}
+
+.btn-pull{
+  float: right;
+}
+
+#teste{
+  transition: 1s;
+}
+
+header.consumo #consumoteste1{
+  display: block;
+  position: fixed;
+}
+
+#consumoteste1{
+  display: none;
+}
+
+main{
+  margin-top: 110px;
+}
+
+.card-text{
+  text-align: center;
+}
