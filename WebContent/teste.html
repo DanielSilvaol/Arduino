@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="utf-8">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
+            integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+        <link rel="stylesheet" href="CSS/teste.css">
+        <title>Home</title>
+    </head>
+    <body>
+        <header>
+            <nav id="menu">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12 pull-right">
+                            <ul>
+                                <li>
+                                    <a href="home.html" class="btn btn-default navbar-brand d-flex align-items-center"><strong>Home</strong></a>
+                                </li>
+                                <li>
+                                    <a href="#" class="btn btn-default navbar-brand d-flex align-items-center" style="color: #FFF; border-bottom: 1px solid #FFF;"><strong>Login</strong></a>
+                                </li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </header>
+
+        <section>
+            <div class="container"  id="tela-login">
+                <div class="row">
+                    <div class="col-md-12">
+                        <form action="controller.do" method="post">
+                            <div class="text-center mb-4 login-text">
+                                <h1>Login</h1>
+                            </div>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-12" id="input">
+                                        <div class="form-label-group">
+                                            <input type="" id="inputEmail" class="form-control" placeholder="Usuário" name="username" required autofocus>
+                                            <label for="inputEmail"></label>
+                                        </div>
+
+                                        <div class="form-label-group">
+                                            <input type="password" id="inputPassword" class="form-control" placeholder="Senha" name="password" required>
+                                            <label for="inputPassword"></label>
+                                        </div>
+                                        <label><a href="#" id="Esqueceu" onclick="Esqueci()">Esqueceu a Senha?</a></label>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="container"  id="btn-login">
+                                <div class="row">
+                                    <div class="col-md-6" id="Cadastro">
+                                        <button onclick="Criar()" class="btn btn-outline-warning btn-block" type="submit" name="command" value="Cadastro">Crie sua Conta</button>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <button  id="Entrar" class="btn btn-outline-success btn-block" type="submit" name="command" value="Login">Entrar</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="container"  id="tela-esqueceu">
+                <div class="row">
+                    <div class="col-md-12">
+                        <form action="controller.do" method="post">
+                            <div class="text-center mb-4 login-text">
+                                <h1>Reset de Senha</h1>
+                            </div>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-12" id="reset-input">
+                                        <div class="form-label-group">
+                                            <input type="user" id="ResetUser" class="form-control" placeholder="Usuário" name="username" required autofocus>
+                                            <label for="inputUser"></label>
+                                        </div>
+
+                                        <div class="form-label-group">
+                                            <input type="CPF" id="ResetCPF" class="form-control" placeholder="CPF" name="username" required autofocus>
+                                            <label for="inputCPF"></label>
+                                        </div>
+
+                                        <div class="form-label-group">
+                                            <input type="password" class="form-control" placeholder="Nova Senha" name="username" required autofocus>
+                                            <label for="inputPassword"></label>
+                                        </div>
+
+                                        <div class="form-label-group">
+                                            <input type="password" class="form-control" placeholder="Confirme Nova Senha" name="password" required>
+                                            <label for="inputPassword"></label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="container" id="btn-esqueci">
+                                <div class="row">
+                                    <div class="col-md-6" id="Voltar">
+                                        <button class="btn btn-outline-warning btn-block" onclick="Voltar()" name="command" value="Login">Voltar</button>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <button  id="Resetar" class="btn btn-outline-success btn-block" type="submit" name="command" value="Login">Resetar</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container"  id="tela-criar">
+                <div class="row">
+                    <div class="col-md-12">
+                        <form action="controller.do" method="post">
+                            <div class="text-center mb-4 login-text">
+                                <h1>Criação de Usuário</h1>
+                            </div>
+                            <div class="container">
+                                <div class="row">
+                                    <div class="col-md-12" id="criacao-input">
+                                        <div class="form-label-group">
+                                            <input type="user" id="CriacaoUser" class="form-control" placeholder="Usuário" name="username" required autofocus>
+                                            <label for="inputUser"></label>
+                                        </div>
+
+                                        <div class="form-label-group">
+                                            <input type="CPF" id="ResetCPF" class="form-control" placeholder="CPF" name="username" required autofocus>
+                                            <label for="inputCPF"></label>
+                                        </div>
+
+                                        <div class="form-label-group">
+                                            <input type="password" class="form-control" placeholder="Nova Senha" name="username" required autofocus>
+                                            <label for="inputPassword"></label>
+                                        </div>
+
+                                        <div class="form-label-group">
+                                            <input type="password" class="form-control" placeholder="Confirme Nova Senha" name="password" required>
+                                            <label for="inputPassword"></label>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="container" id="btn-esqueci">
+                                <div class="row">
+                                    <div class="col-md-6" id="Voltar">
+                                        <button class="btn btn-outline-warning btn-block" onclick="Voltar()" name="command" value="Login">Voltar</button>
+                                    </div>
+                                    <div class="col-md-6">
+                                        <button  id="Resetar" class="btn btn-outline-success btn-block" type="submit" name="command" value="Login">Resetar</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+        integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+        crossorigin="anonymous"></script>
+        <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery-slim.min.js"><\/script>')</script>
+        <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+            integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo"
+            crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
+            integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
+            crossorigin="anonymous"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js"
+            integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy"
+            crossorigin="anonymous"></script>
+        <script src="JS/jquery/jquery.min.js"></script>
+        <script src="JS/efeitos.js"></script>
+        <script>
+            function Esqueci(){
+                document.getElementById("tela-login").style.display="none";
+                document.getElementById("tela-esqueceu").style.display="block";
+            }
+
+            function Voltar(){
+                document.getElementById("tela-esqueceu").style.display="none";
+                document.getElementById("tela-login").style.display="block";
+            }
+
+            function Criar(){
+                document.getElementById("tela-login").style.display="none";
+                document.getElementById("tela-esqueceu").style.display="none";
+                document.getElementById("tela-criar").style.display="block";
+            }
+        </script>
+    </body>
+</html>
