@@ -7,978 +7,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c43028e7-d214-4fa8-a695-d2d6591ec7e8" name="Default Changelist" comment="Atualização">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/aaf491b7-8e6b-481e-9d49-53f7fe12566a.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/aaf491b7-8e6b-481e-9d49-53f7fe12566a/storage_v2/_src_/schema/arduino.KOB80w.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/aaf491b7-8e6b-481e-9d49-53f7fe12566a/storage_v2/_src_/schema/sakila.oXLGyQ.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/aaf491b7-8e6b-481e-9d49-53f7fe12566a/storage_v2/_src_/schema/sys.zb4BAA.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/aaf491b7-8e6b-481e-9d49-53f7fe12566a/storage_v2/_src_/schema/world.khvBBg.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources/c7951b16-180d-42ba-a967-a7e5fa75f591.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/odsda.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/.babelrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/.github/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/.github/ISSUE_TEMPLATE/bug.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/.github/ISSUE_TEMPLATE/bug_report.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/.github/ISSUE_TEMPLATE/feature.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/.github/ISSUE_TEMPLATE/feature_request.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/.github/SUPPORT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/.stylelintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/.stylelintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/CNAME" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/_config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/build/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/build/.htmllintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/build/build-plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/build/change-version.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/build/gcp-key.json.enc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/build/generate-sri.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/build/lint-vars.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/build/postcss.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/build/rollup.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/build/sauce_browsers.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/build/saucelabs-unit-test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/build/ship.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/build/vnu-jar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/build/workbox.config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/build/workbox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/dist/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/dist/alert.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/dist/button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/dist/button.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/dist/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/dist/carousel.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/dist/collapse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/dist/collapse.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/dist/dropdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/dist/dropdown.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/dist/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/dist/index.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/dist/modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/dist/modal.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/dist/popover.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/dist/popover.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/dist/scrollspy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/dist/scrollspy.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/dist/tab.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/dist/tab.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/dist/tooltip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/dist/tooltip.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/dist/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/dist/util.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/src/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/src/button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/src/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/src/collapse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/src/dropdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/src/modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/src/popover.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/src/scrollspy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/src/tab.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/src/tooltip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/src/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/karma-bundle.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/unit/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/unit/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/unit/button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/unit/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/unit/collapse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/unit/dropdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/unit/modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/unit/popover.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/unit/scrollspy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/unit/tab.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/unit/tooltip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/unit/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/visual/alert.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/visual/button.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/visual/carousel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/visual/collapse.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/visual/dropdown.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/visual/modal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/visual/popover.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/visual/scrollspy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/visual/tab.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/js/tests/visual/tooltip.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/nuget/MyGet.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/nuget/bootstrap.nuspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/nuget/bootstrap.sass.nuspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/package.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/sache.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_breadcrumb.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_button-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_card.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_carousel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_close.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_code.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_custom-forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_dropdown.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_images.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_input-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_jumbotron.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_modal.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_popover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_print.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_progress.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_root.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_tooltip.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_transitions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_type.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/bootstrap-grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/bootstrap-reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/bootstrap.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_background-variant.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_border-radius.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_box-shadow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_breakpoints.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_caret.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_float.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_grid-framework.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_hover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_lists.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_nav-divider.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_reset-text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_resize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_screen-reader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_size.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_table-row.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_text-emphasis.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_text-hide.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_text-truncate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_transition.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/mixins/_visibility.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/utilities/_align.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/utilities/_background.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/utilities/_borders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/utilities/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/utilities/_display.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/utilities/_embed.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/utilities/_flex.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/utilities/_float.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/utilities/_position.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/utilities/_screenreaders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/utilities/_shadows.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/utilities/_sizing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/utilities/_spacing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/utilities/_text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/scss/utilities/_visibility.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_data/breakpoints.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_data/browser-bugs.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_data/browser-features.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_data/colors.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_data/examples.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_data/grays.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_data/nav.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_data/theme-colors.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_data/translations.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_includes/ads.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_includes/bugify.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_includes/callout-danger-async-methods.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_includes/callout-info-mediaqueries-breakpoints.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_includes/callout-warning-color-assistive-technologies.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_includes/callout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_includes/docs-navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_includes/docs-sidebar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_includes/example.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_includes/favicons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_includes/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_includes/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_includes/icons/bootstrap.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_includes/icons/download.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_includes/icons/github.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_includes/icons/import.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_includes/icons/lightning.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_includes/icons/menu.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_includes/icons/slack.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_includes/icons/twitter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_includes/scripts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_includes/skippy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_includes/social.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_layouts/default.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_layouts/docs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_layouts/examples.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_layouts/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_layouts/redirect.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/_layouts/simple.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/about/brand.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/about/license.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/about/overview.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/about/translations.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/brand/bootstrap-outline.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/brand/bootstrap-punchout.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/brand/bootstrap-social-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/brand/bootstrap-social.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/brand/bootstrap-solid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/css/docs.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/css/docs.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/bootstrap-stack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/bootstrap-themes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/mstile-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/mstile-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/mstile-310x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/mstile-310x310.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/mstile-70x70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/safari-pinned-tab.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/js/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/js/docs.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/js/src/application.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/js/src/ie-emulation-modes-warning.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/js/src/pwa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/js/src/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/js/vendor/anchor.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/js/vendor/clipboard.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/js/vendor/holder.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/js/vendor/jquery-slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/js/vendor/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_ads.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_algolia.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_anchor.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_brand.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_browser-bugs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_callouts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_clipboard-js.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_component-examples.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_content.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_examples.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_masthead.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_sidebar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_skiplink.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_syntax.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/docs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/browser-bugs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/components/alerts.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/components/badge.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/components/breadcrumb.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/components/button-group.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/components/buttons.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/components/card.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/components/carousel.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/components/collapse.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/components/dropdowns.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/components/forms.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/components/input-group.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/components/jumbotron.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/components/list-group.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/components/modal.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/components/navbar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/components/navs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/components/pagination.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/components/popovers.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/components/progress.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/components/scrollspy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/components/tooltips.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/content/code.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/content/figures.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/content/images.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/content/reboot.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/content/tables.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/content/typography.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/.stylelintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/album/album.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/album/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/blog/blog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/blog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/carousel/carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/carousel/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/checkout/form-validation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/checkout/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/cover/cover.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/cover/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/dashboard/dashboard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/dashboard/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/floating-labels/floating-labels.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/floating-labels/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/grid/grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/grid/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/jumbotron/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/jumbotron/jumbotron.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/navbar-bottom/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/navbar-fixed/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/navbar-fixed/navbar-top-fixed.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/navbar-static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/navbar-static/navbar-top.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/navbars/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/navbars/navbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/offcanvas/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/offcanvas/offcanvas.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/offcanvas/offcanvas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/pricing/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/pricing/pricing.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/product/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/product/product.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/album.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/blog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/carousel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/checkout.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/cover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/dashboard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/floating-labels.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/grid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/jumbotron.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/navbar-bottom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/navbar-fixed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/navbar-static.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/navbars.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/offcanvas.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/pricing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/product.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/sign-in.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/starter-template.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/sticky-footer-navbar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/sticky-footer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/sign-in/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/sign-in/signin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/starter-template/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/starter-template/starter-template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/sticky-footer-navbar/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/sticky-footer-navbar/sticky-footer-navbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/sticky-footer/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/sticky-footer/sticky-footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/tooltip-viewport/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/tooltip-viewport/tooltip-viewport.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/examples/tooltip-viewport/tooltip-viewport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/extend/approach.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/extend/icons.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/extend/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/getting-started/accessibility.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/getting-started/best-practices.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/getting-started/browsers-devices.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/getting-started/build-tools.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/getting-started/contents.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/getting-started/download.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/getting-started/introduction.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/getting-started/javascript.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/getting-started/theming.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/getting-started/webpack.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/layout/grid.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/layout/media-object.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/layout/overview.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/layout/utilities-for-layout.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/migration.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/borders.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/clearfix.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/close-icon.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/colors.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/display.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/embed.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/flex.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/float.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/image-replacement.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/position.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/screenreaders.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/shadows.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/sizing.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/spacing.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/text.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/vertical-align.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/visibility.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WebContent/CSS/bootstrap-4.1.3/site/sw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/Arduino/ControlePorta.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/Arduino/SerialInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/Arduino/SerialReadAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/Arduino/autoHome/autoHome.ino" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/Controller/Controller.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/DAO/ArduinoDAO$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/DAO/ArduinoDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/DAO/ConnectionFactory.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/DAO/ConsumoDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/DAO/UsuarioDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/Modal/Consumo.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/Modal/Usuario.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/Service/ConsumoService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/Servlet/ServletCadastro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/Servlet/Servletlogin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/Servlet/filtroLogin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/Test/TesteJava.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/command/Cadastro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/command/Command.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/command/Consumos.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/command/ControleCozinhaOFF.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/command/ControleCozinhaON.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/command/ControleQuartoOFF.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/command/ControleQuartoON.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/command/ControleSalaOFF.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/command/ControleSalaON.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build/classes/command/Login.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/.babelrc.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/.browserslistrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/.eslintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/.github/CONTRIBUTING.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/.github/ISSUE_TEMPLATE/bug.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/.github/ISSUE_TEMPLATE/bug_report.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/.github/ISSUE_TEMPLATE/feature.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/.github/ISSUE_TEMPLATE/feature_request.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/.github/SUPPORT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/.stylelintignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/.stylelintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/CNAME" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/CODE_OF_CONDUCT.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/_config.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/build/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/build/.htmllintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/build/build-plugins.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/build/change-version.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/build/gcp-key.json.enc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/build/generate-sri.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/build/lint-vars.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/build/postcss.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/build/rollup.config.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/build/sauce_browsers.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/build/saucelabs-unit-test.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/build/ship.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/build/vnu-jar.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/build/workbox.config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/build/workbox.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/dist/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/dist/alert.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/dist/button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/dist/button.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/dist/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/dist/carousel.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/dist/collapse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/dist/collapse.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/dist/dropdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/dist/dropdown.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/dist/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/dist/index.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/dist/modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/dist/modal.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/dist/popover.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/dist/popover.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/dist/scrollspy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/dist/scrollspy.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/dist/tab.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/dist/tab.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/dist/tooltip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/dist/tooltip.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/dist/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/dist/util.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/src/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/src/button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/src/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/src/collapse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/src/dropdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/src/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/src/modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/src/popover.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/src/scrollspy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/src/tab.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/src/tooltip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/src/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/karma-bundle.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/karma.conf.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/unit/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/unit/alert.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/unit/button.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/unit/carousel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/unit/collapse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/unit/dropdown.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/unit/modal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/unit/popover.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/unit/scrollspy.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/unit/tab.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/unit/tooltip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/unit/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/visual/alert.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/visual/button.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/visual/carousel.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/visual/collapse.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/visual/dropdown.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/visual/modal.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/visual/popover.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/visual/scrollspy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/visual/tab.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/js/tests/visual/tooltip.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/nuget/MyGet.ps1" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/nuget/bootstrap.nuspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/nuget/bootstrap.sass.nuspec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/package.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/sache.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_breadcrumb.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_button-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_card.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_carousel.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_close.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_code.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_custom-forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_dropdown.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_functions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_images.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_input-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_jumbotron.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_media.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_mixins.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_modal.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_navbar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_popover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_print.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_progress.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_root.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_tables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_tooltip.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_transitions.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_type.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_utilities.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/bootstrap-grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/bootstrap-reboot.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/bootstrap.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_alert.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_background-variant.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_badge.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_border-radius.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_box-shadow.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_breakpoints.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_caret.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_float.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_forms.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_gradients.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_grid-framework.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_grid.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_hover.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_image.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_list-group.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_lists.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_nav-divider.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_pagination.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_reset-text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_resize.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_screen-reader.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_size.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_table-row.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_text-emphasis.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_text-hide.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_text-truncate.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_transition.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/mixins/_visibility.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/utilities/_align.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/utilities/_background.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/utilities/_borders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/utilities/_clearfix.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/utilities/_display.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/utilities/_embed.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/utilities/_flex.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/utilities/_float.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/utilities/_position.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/utilities/_screenreaders.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/utilities/_shadows.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/utilities/_sizing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/utilities/_spacing.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/utilities/_text.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/scss/utilities/_visibility.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_data/breakpoints.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_data/browser-bugs.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_data/browser-features.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_data/colors.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_data/examples.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_data/grays.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_data/nav.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_data/theme-colors.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_data/translations.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_includes/ads.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_includes/bugify.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_includes/callout-danger-async-methods.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_includes/callout-info-mediaqueries-breakpoints.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_includes/callout-warning-color-assistive-technologies.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_includes/callout.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_includes/docs-navbar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_includes/docs-sidebar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_includes/example.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_includes/favicons.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_includes/footer.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_includes/header.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_includes/icons/bootstrap.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_includes/icons/download.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_includes/icons/github.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_includes/icons/import.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_includes/icons/lightning.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_includes/icons/menu.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_includes/icons/slack.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_includes/icons/twitter.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_includes/scripts.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_includes/skippy.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_includes/social.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_layouts/default.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_layouts/docs.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_layouts/examples.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_layouts/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_layouts/redirect.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/_layouts/simple.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/about/brand.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/about/license.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/about/overview.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/about/translations.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/brand/bootstrap-outline.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/brand/bootstrap-punchout.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/brand/bootstrap-social-logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/brand/bootstrap-social.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/brand/bootstrap-solid.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/css/docs.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/css/docs.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/bootstrap-stack.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/bootstrap-themes.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/android-chrome-192x192.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/android-chrome-512x512.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/browserconfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/favicon-16x16.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/favicon-32x32.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/manifest.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/mstile-144x144.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/mstile-150x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/mstile-310x150.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/mstile-310x310.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/mstile-70x70.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/img/favicons/safari-pinned-tab.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/js/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/js/docs.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/js/src/application.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/js/src/ie-emulation-modes-warning.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/js/src/pwa.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/js/src/search.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/js/vendor/anchor.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/js/vendor/clipboard.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/js/vendor/holder.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/js/vendor/jquery-slim.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/js/vendor/popper.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_ads.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_algolia.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_anchor.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_brand.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_browser-bugs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_buttons.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_callouts.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_clipboard-js.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_colors.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_component-examples.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_content.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_examples.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_footer.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_masthead.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_nav.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_sidebar.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_skiplink.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_syntax.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/_variables.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/assets/scss/docs.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/browser-bugs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/components/alerts.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/components/badge.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/components/breadcrumb.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/components/button-group.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/components/buttons.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/components/card.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/components/carousel.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/components/collapse.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/components/dropdowns.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/components/forms.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/components/input-group.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/components/jumbotron.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/components/list-group.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/components/modal.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/components/navbar.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/components/navs.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/components/pagination.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/components/popovers.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/components/progress.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/components/scrollspy.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/components/tooltips.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/content/code.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/content/figures.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/content/images.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/content/reboot.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/content/tables.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/content/typography.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/.eslintrc.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/.stylelintrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/album/album.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/album/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/blog/blog.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/blog/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/carousel/carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/carousel/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/checkout/form-validation.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/checkout/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/cover/cover.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/cover/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/dashboard/dashboard.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/dashboard/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/floating-labels/floating-labels.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/floating-labels/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/grid/grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/grid/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/jumbotron/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/jumbotron/jumbotron.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/navbar-bottom/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/navbar-fixed/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/navbar-fixed/navbar-top-fixed.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/navbar-static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/navbar-static/navbar-top.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/navbars/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/navbars/navbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/offcanvas/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/offcanvas/offcanvas.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/offcanvas/offcanvas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/pricing/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/pricing/pricing.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/product/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/product/product.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/album.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/blog.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/carousel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/checkout.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/cover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/dashboard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/floating-labels.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/grid.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/jumbotron.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/navbar-bottom.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/navbar-fixed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/navbar-static.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/navbars.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/offcanvas.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/pricing.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/product.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/sign-in.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/starter-template.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/sticky-footer-navbar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/screenshots/sticky-footer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/sign-in/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/sign-in/signin.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/starter-template/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/starter-template/starter-template.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/sticky-footer-navbar/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/sticky-footer-navbar/sticky-footer-navbar.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/sticky-footer/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/sticky-footer/sticky-footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/tooltip-viewport/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/tooltip-viewport/tooltip-viewport.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/examples/tooltip-viewport/tooltip-viewport.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/extend/approach.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/extend/icons.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/extend/index.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/getting-started/accessibility.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/getting-started/best-practices.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/getting-started/browsers-devices.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/getting-started/build-tools.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/getting-started/contents.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/getting-started/download.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/getting-started/introduction.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/getting-started/javascript.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/getting-started/theming.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/getting-started/webpack.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/layout/grid.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/layout/media-object.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/layout/overview.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/layout/utilities-for-layout.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/migration.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/borders.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/clearfix.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/close-icon.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/colors.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/display.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/embed.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/flex.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/float.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/image-replacement.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/position.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/screenreaders.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/shadows.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/sizing.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/spacing.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/text.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/vertical-align.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/docs/4.1/utilities/visibility.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/bootstrap-4.1.3/site/sw.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/controle.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/cover.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/login.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/login2.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/logincss.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/ConsMes.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/ConsSemana.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/IMG/architecture-1477041_1280.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/IMG/bathroom-1228427_1280.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/IMG/bed-1839184_1280.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/IMG/bright-1851267_1280.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/IMG/imgpsh_fullsize.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/IMG/kitchen-2165756_1280.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/IMG/living-room-2732939_1280.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/IMG/teste.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/JS/efeitos.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/JS/jquery/jquery.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/Arduino/SerialInterface.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/Arduino/SerialReadAction.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/Arduino/autoHome/autoHome.ino" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/DAO/ArduinoDAO$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/DAO/ArduinoDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/DAO/UsuarioDAO.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/Servlet/ServletCadastro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/Servlet/Servletlogin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/Servlet/filtroLogin.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/Cadastro.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleCozinhaOFF.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleCozinhaON.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleQuartoOFF.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleQuartoON.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleSalaOFF.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleSalaON.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/Login.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/lib/gson-2.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/lib/mysql-connector-java-5-1-30.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/lib/mysql-connector-java-5.1.46.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/cadastro.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/controle.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/index.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/index2.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/login.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/login2.jsp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-5.0.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.46.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-8.0.13.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/protobuf-java-3.6.1.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/ConsSemana.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/ConsSemana.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/cadastro.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/cadastro.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/controle.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/controle.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/DAO/ConsumoDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/DAO/ConsumoDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/Service/ConsumoService.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/Service/ConsumoService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/Consumos.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/Consumos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arduino/autoHome/autoHome.ino" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arduino/autoHome/autoHome.ino" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAO/ConsumoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/ConsumoDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/Consumos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/Consumos.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/CSS/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/CSS/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/cadastro.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/login2.jsp" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -1125,13 +158,13 @@
     <session id="71904262">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="21" />
+          <entry key="project.closed" value="22" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.21" value="2" />
           <entry key="project.open.time.23" value="1" />
           <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.26" value="1" />
-          <entry key="project.open.time.29" value="2" />
+          <entry key="project.open.time.29" value="3" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.35" value="3" />
           <entry key="project.open.time.36" value="1" />
@@ -1145,7 +178,7 @@
           <entry key="project.open.time.69" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="26" />
+          <entry key="project.opened" value="27" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -1154,11 +187,12 @@
           <entry key="consumo" value="3" />
           <entry key="css" value="10" />
           <entry key="git" value="1" />
-          <entry key="html" value="6" />
+          <entry key="html" value="8" />
           <entry key="ino" value="7" />
           <entry key="java" value="96" />
           <entry key="js" value="3" />
-          <entry key="jsp" value="43" />
+          <entry key="jsp" value="44" />
+          <entry key="rnc" value="1" />
           <entry key="sql" value="18" />
           <entry key="vmoptions" value="1" />
         </counts>
@@ -1168,11 +202,12 @@
           <entry key="CLASS" value="54" />
           <entry key="CSS" value="10" />
           <entry key="Database Element" value="3" />
-          <entry key="HTML" value="6" />
+          <entry key="HTML" value="8" />
           <entry key="JAVA" value="96" />
-          <entry key="JSP" value="43" />
+          <entry key="JSP" value="44" />
           <entry key="JavaScript" value="3" />
           <entry key="PLAIN_TEXT" value="8" />
+          <entry key="RNG Compact" value="1" />
           <entry key="SQL" value="7" />
           <entry key="Scratch" value="11" />
           <entry key="UNKNOWN" value="1" />
@@ -1183,7 +218,7 @@
           <entry key="cell" value="1" />
           <entry key="css" value="14" />
           <entry key="dummy" value="26" />
-          <entry key="html" value="98" />
+          <entry key="html" value="167" />
           <entry key="ino" value="77" />
           <entry key="java" value="3950" />
           <entry key="jsp" value="2203" />
@@ -1195,7 +230,7 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="CSS" value="14" />
-          <entry key="HTML" value="98" />
+          <entry key="HTML" value="167" />
           <entry key="JAVA" value="3950" />
           <entry key="JSP" value="2203" />
           <entry key="PLAIN_TEXT" value="121" />
@@ -1210,8 +245,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/aaf491b7-8e6b-481e-9d49-53f7fe12566a/console.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="92" selection-start-line="92" selection-end-line="92" />
+            <state relative-caret-position="1530">
+              <caret line="90" column="21" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="21" />
             </state>
           </provider>
         </entry>
@@ -1219,16 +254,16 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/command/ControleCozinhaOFF.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
+            <state relative-caret-position="68">
               <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/DAO/ConsumoDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="918">
               <caret line="70" column="106" selection-start-line="70" selection-start-column="106" selection-end-line="70" selection-end-column="106" />
             </state>
           </provider>
@@ -1237,8 +272,29 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebContent/CSS/controle.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
-              <caret line="98" column="18" lean-forward="true" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="18" />
+            <state>
+              <caret lean-forward="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebContent/teste.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1327">
+              <caret line="154" column="60" selection-start-line="154" selection-start-column="60" selection-end-line="154" selection-end-column="60" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms.rnc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="279">
+              <caret line="603" column="24" lean-forward="true" selection-start-line="603" selection-start-column="24" selection-end-line="603" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -1247,7 +303,7 @@
         <entry file="file://$PROJECT_DIR$/WebContent/JS/efeitos.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="51">
-              <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -1255,12 +311,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebContent/controle.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1854">
+            <state relative-caret-position="2805">
               <caret line="165" column="72" selection-start-line="165" selection-start-column="72" selection-end-line="165" selection-end-column="72" />
-              <folding>
-                <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#4128#4136#0#HTML" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -1272,20 +324,6 @@
               <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebContent/login2.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="561">
-              <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebContent/login.jsp">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -1303,6 +341,9 @@
       <find>valor</find>
       <find>option1</find>
       <find>main</find>
+      <find>Entrar</find>
+      <find>Cadastro</find>
+      <find>CadastroVol</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -1311,8 +352,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Arduino/ControlePorta.java" />
-        <option value="$PROJECT_DIR$/src/Controller/Controller.java" />
         <option value="$APPLICATION_CONFIG_DIR$/idea64.exe.vmoptions" />
         <option value="$PROJECT_DIR$/src/Arduino/SerialReadAction.java" />
         <option value="$PROJECT_DIR$/src/DAO/ArduinoDAO.java" />
@@ -1362,6 +401,8 @@
         <option value="$PROJECT_DIR$/WebContent/controle.jsp" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/aaf491b7-8e6b-481e-9d49-53f7fe12566a/console.sql" />
         <option value="$PROJECT_DIR$/src/DAO/ConsumoDAO.java" />
+        <option value="$PROJECT_DIR$/WebContent/login2.html" />
+        <option value="$PROJECT_DIR$/WebContent/teste.html" />
       </list>
     </option>
   </component>
@@ -1434,7 +475,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -1453,22 +493,11 @@
               <item name="Arduino" type="462c0819:PsiDirectoryNode" />
               <item name="WebContent" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Arduino" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Arduino" type="462c0819:PsiDirectoryNode" />
-              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
-              <item name="CSS" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Arduino" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Arduino" type="462c0819:PsiDirectoryNode" />
-              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
-              <item name="JS" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -1478,9 +507,9 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543460289933" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543519510154" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect" value="MySQL" />
-    <property name="database.console.LAST_STATE" value="true" />
+    <property name="database.console.LAST_STATE" value="false" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Teste" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -1673,7 +702,8 @@
       <workItem from="1543289014644" duration="384000" />
       <workItem from="1543401956635" duration="13100000" />
       <workItem from="1543441724024" duration="64000" />
-      <workItem from="1543454356702" duration="5807000" />
+      <workItem from="1543454356702" duration="6420000" />
+      <workItem from="1543515694645" duration="2220000" />
     </task>
     <task id="LOCAL-00001" summary="New Format">
       <created>1541807416077</created>
@@ -1805,7 +835,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120777000" />
+    <option name="totallyTimeSpent" value="123610000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1818,7 +848,7 @@
       <window_info id="Image Layers" order="4" />
       <window_info id="Structure" order="5" sideWeight="0.5048544" side_tool="true" weight="0.21785174" />
       <window_info id="Web" order="6" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.49514562" visible="true" weight="0.2375189" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.49514562" visible="true" weight="0.24130106" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50075644" side_tool="true" weight="0.3295082" />
@@ -1832,7 +862,7 @@
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Application Servers" order="12" weight="0.3295082" />
-      <window_info active="true" anchor="bottom" id="Database Console" order="13" visible="true" weight="0.35081968" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.35081968" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
       <window_info anchor="bottom" id="Serial Monitor" order="15" weight="0.3295082" />
       <window_info anchor="bottom" id="Inspection Results" order="16" weight="0.3295082" />
@@ -1847,6 +877,43 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5012285" side_tool="true" weight="0.30786687" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info id="UI Designer" order="1" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Structure" order="5" sideWeight="0.5048544" side_tool="true" weight="0.21785174" />
+      <window_info id="Web" order="6" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.49514562" visible="true" weight="0.2375189" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50075644" side_tool="true" weight="0.3295082" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Message" order="4" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.3295082" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49924356" weight="0.3295082" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.3786885" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.3295082" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="bottom" id="Application Servers" order="12" weight="0.3295082" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.35081968" />
+      <window_info anchor="bottom" id="Java Enterprise" order="14" />
+      <window_info anchor="bottom" id="Serial Monitor" order="15" weight="0.3295082" />
+      <window_info anchor="bottom" id="Inspection Results" order="16" weight="0.3295082" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Theme Preview" order="1" />
+      <window_info anchor="right" id="Database" order="2" sideWeight="0.4987715" weight="0.30786687" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32980332" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5012285" side_tool="true" weight="0.30786687" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -1927,54 +994,6 @@
           <line>224</line>
           <properties />
           <option name="timeStamp" value="76" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DAO/ConsumoDAO.java</url>
-          <line>50</line>
-          <properties />
-          <option name="timeStamp" value="78" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DAO/ConsumoDAO.java</url>
-          <line>53</line>
-          <properties />
-          <option name="timeStamp" value="79" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DAO/ConsumoDAO.java</url>
-          <line>52</line>
-          <properties />
-          <option name="timeStamp" value="80" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DAO/ConsumoDAO.java</url>
-          <line>60</line>
-          <properties />
-          <option name="timeStamp" value="81" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DAO/ConsumoDAO.java</url>
-          <line>61</line>
-          <properties />
-          <option name="timeStamp" value="82" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DAO/ConsumoDAO.java</url>
-          <line>62</line>
-          <properties />
-          <option name="timeStamp" value="83" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DAO/ConsumoDAO.java</url>
-          <line>72</line>
-          <properties />
-          <option name="timeStamp" value="85" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/DAO/ConsumoDAO.java</url>
-          <line>70</line>
-          <properties />
-          <option name="timeStamp" value="86" />
         </line-breakpoint>
         <breakpoint type="java-exception">
           <properties class="com.sun.org.apache.bcel.internal.classfile.ClassFormatException" package="com.sun.org.apache.bcel.internal.classfile" />
@@ -2100,27 +1119,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WebContent/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/JS/jquery/jquery.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="1803" column="42" lean-forward="true" selection-start-line="1803" selection-start-column="42" selection-end-line="1803" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/banco.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="20" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-102" />
@@ -2355,68 +1353,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
           <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
-          <folding>
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#335#336#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#429#430#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/login2.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/login.jsp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/cadastro.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/JS/efeitos.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="7" lean-forward="true" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/CSS/controle.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="98" column="18" lean-forward="true" selection-start-line="98" selection-start-column="18" selection-end-line="98" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/controle.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1854">
-          <caret line="165" column="72" selection-start-line="165" selection-start-column="72" selection-end-line="165" selection-end-column="72" />
-          <folding>
-            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#4128#4136#0#HTML" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/ConsSemana.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/ControleCozinhaOFF.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -2436,15 +1372,91 @@
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/aaf491b7-8e6b-481e-9d49-53f7fe12566a/console.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        <state relative-caret-position="1530">
+          <caret line="90" column="21" selection-start-line="90" selection-start-column="21" selection-end-line="90" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/ControleCozinhaOFF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DAO/ConsumoDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="918">
           <caret line="70" column="106" selection-start-line="70" selection-start-column="106" selection-end-line="70" selection-end-column="106" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/controle.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2805">
+          <caret line="165" column="72" selection-start-line="165" selection-start-column="72" selection-end-line="165" selection-end-column="72" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/ConsSemana.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="20" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/login2.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="33" column="21" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/login.jsp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/login2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="19" column="4" selection-start-line="19" selection-start-column="4" selection-end-line="19" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/CSS/controle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/cadastro.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-510">
+          <caret line="18" column="2" selection-start-line="18" selection-start-column="2" selection-end-line="18" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/JS/efeitos.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/platform-impl.jar!/resources/html5-schema/html5/web-forms.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="279">
+          <caret line="603" column="24" lean-forward="true" selection-start-line="603" selection-start-column="24" selection-end-line="603" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/teste.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1327">
+          <caret line="154" column="60" selection-start-line="154" selection-start-column="60" selection-end-line="154" selection-end-column="60" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
