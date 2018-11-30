@@ -30,7 +30,7 @@ public class ControleCozinhaON implements Command {
         ConsumoService service = new ConsumoService();
 
         String comando = "1";
-        si.write(comando.getBytes());
+//        si.write(comando.getBytes());
         service.ligaLed("COZINHA");
         usuario.setLigaDesligaCozinha(1);
 

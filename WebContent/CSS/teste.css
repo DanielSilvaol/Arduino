@@ -47,12 +47,14 @@ section{
     width: 35%;
     top: 80px;
     position: relative;
-}   
+}
 
 #tela-esqueceu{
     display: none;
 }
-
+#tela-criar{
+    display: none;
+}
 .login-text{
     margin-top: 15px;
 }

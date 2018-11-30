@@ -30,7 +30,7 @@ public class ControleCozinhaOFF implements Command {
 
         service.desligaLed("COZINHA");
         String comando = "0";
-        si.write(comando.getBytes());
+        //si.write(comando.getBytes());
         usuario.setLigaDesligaCozinha(0);
 
         session.setAttribute(USUARIO_SESSION, usuario);

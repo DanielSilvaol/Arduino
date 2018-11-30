@@ -20,11 +20,6 @@ public class Consumos implements Command {
     @Override
     public void executar(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
         HttpSession session = request.getSession();
-
-
-
-
-
         Usuario usuario = (Usuario) session.getAttribute(USUARIO_SESSION);
         Consumo consumo = new Consumo();
         if (usuario == null) {

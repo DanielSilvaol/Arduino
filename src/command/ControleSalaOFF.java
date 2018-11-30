@@ -29,7 +29,7 @@ public class ControleSalaOFF implements Command {
 
         service.desligaLed("SALA");
         String comando = "4";
-        si.write(comando.getBytes());
+      //  si.write(comando.getBytes());
         usuario.setLigaDesligaSala(0);
 
         session.setAttribute(USUARIO_SESSION, usuario);
