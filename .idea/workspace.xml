@@ -7,70 +7,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c43028e7-d214-4fa8-a695-d2d6591ec7e8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/RXTXcomm.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/artifacts/Arduino_Web_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Arduino_Web_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.local.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/aaf491b7-8e6b-481e-9d49-53f7fe12566a.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/aaf491b7-8e6b-481e-9d49-53f7fe12566a.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/serialmonitor_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/serialmonitor_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/RXTXcomm.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/RXTXcomm.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arduino.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Arduino.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/ConsMes.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/ConsMes.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/ConsSemana.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/ConsSemana.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/controle.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/controle.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/index2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/index2.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebContent/loginOficial.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/loginOficial.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/banco.sql" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/banco.sql" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/Arduino/SerialInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/Arduino/SerialInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/Arduino/autoHome/autoHome.ino" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/Arduino/autoHome/autoHome.ino" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/DAO/ArduinoDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/DAO/ArduinoDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/DAO/ConsumoDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/DAO/ConsumoDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/Test/TesteJava.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/command/Cadastro.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/command/Cadastro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/command/ControleCozinhaOFF.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/command/ControleCozinhaOFF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/command/ControleCozinhaON.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/command/ControleCozinhaON.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/command/ControleQuartoOFF.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/command/ControleQuartoOFF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/command/ControleQuartoON.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/command/ControleQuartoON.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/command/ControleSalaOFF.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/command/ControleSalaOFF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/command/ControleSalaON.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/command/ControleSalaON.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/command/CriaUsuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/command/CriaUsuario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/command/ResetSenha.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/command/ResetSenha.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/ConsMes.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/ConsMes.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/ConsSemana.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/ConsSemana.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/Arduino/SerialInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/Arduino/SerialInterface.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/Arduino/autoHome/autoHome.ino" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/Arduino/autoHome/autoHome.ino" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/DAO/ArduinoDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/DAO/ArduinoDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/DAO/ConsumoDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/DAO/ConsumoDAO.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/Cadastro.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/Cadastro.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleCozinhaOFF.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleCozinhaOFF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleCozinhaON.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleCozinhaON.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleQuartoOFF.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleQuartoOFF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleQuartoON.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleQuartoON.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleSalaOFF.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleSalaOFF.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleSalaON.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleSalaON.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/CriaUsuario.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/CriaUsuario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ResetSenha.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ResetSenha.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/VerificaLogin.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/VerificaLogin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/lib/RXTXcomm.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/controle.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/controle.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/index2.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/index2.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/loginOficial.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/loginOficial.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Arduino/SerialInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arduino/SerialInterface.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Arduino/autoHome/autoHome.ino" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arduino/autoHome/autoHome.ino" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/DAO/ArduinoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/ArduinoDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DAO/ConsumoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/ConsumoDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/Cadastro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/Cadastro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/ControleCozinhaOFF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/ControleCozinhaOFF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/ControleCozinhaON.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/ControleCozinhaON.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/ControleQuartoOFF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/ControleQuartoOFF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/ControleQuartoON.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/ControleQuartoON.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/ControleSalaOFF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/ControleSalaOFF.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/ControleSalaON.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/ControleSalaON.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/CriaUsuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/CriaUsuario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/command/ResetSenha.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/ResetSenha.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/build/classes/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -135,16 +82,46 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Arduino/SerialInterface.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="42" column="16" lean-forward="true" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="42" />
+            <state relative-caret-position="110">
+              <caret line="40" column="22" selection-start-line="40" selection-end-line="41" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#2893#2894#0" expanded="true" />
                 <element signature="e#2941#2942#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d619cb48-37c0-4229-8a52-477d862412fd/console.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="23" column="57" lean-forward="true" selection-end-line="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebContent/banco.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="265">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
             </state>
           </provider>
         </entry>
@@ -161,7 +138,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Controller/Controller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="15">
               <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
             </state>
           </provider>
@@ -179,33 +156,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/command/ControleQuartoON.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="262">
+            <state relative-caret-position="90">
               <caret line="28" selection-start-line="28" selection-end-line="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Service/ConsumoService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="12" selection-start-line="12" selection-end-line="12" />
-              <folding>
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#335#336#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/DAO/ConsumoDAO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -250,8 +205,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/command/Teste.java" />
-        <option value="$PROJECT_DIR$/WebContent/index.jsp" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/c7951b16-180d-42ba-a967-a7e5fa75f591/console.sql" />
         <option value="$PROJECT_DIR$/WebContent/JS/jquery/jquery.min.js" />
         <option value="$PROJECT_DIR$/WebContent/CSS/controle.css" />
@@ -299,8 +252,10 @@
         <option value="$PROJECT_DIR$/src/command/ControleSalaON.java" />
         <option value="$PROJECT_DIR$/src/command/ControleCozinhaON.java" />
         <option value="$PROJECT_DIR$/src/command/ControleCozinhaOFF.java" />
-        <option value="$PROJECT_DIR$/src/DAO/ArduinoDAO.java" />
         <option value="$PROJECT_DIR$/src/Arduino/SerialInterface.java" />
+        <option value="$PROJECT_DIR$/src/DAO/ArduinoDAO.java" />
+        <option value="$PROJECT_DIR$/src/test.java" />
+        <option value="$PROJECT_DIR$/WebContent/banco.sql" />
       </list>
     </option>
   </component>
@@ -371,25 +326,13 @@
             <path>
               <item name="Arduino" type="b2602c69:ProjectViewProjectNode" />
               <item name="Arduino" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Arduino" type="b2602c69:ProjectViewProjectNode" />
               <item name="Arduino" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Arduino" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Arduino" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Arduino" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="command" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Arduino" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Arduino" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DAO" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="mfz-rxtx-2.2-20081207-linux-x86_64" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Arduino" type="b2602c69:ProjectViewProjectNode" />
@@ -407,6 +350,7 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -415,7 +359,7 @@
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect" value="MySQL" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/mfz-rxtx-2.2-20081207-linux-x86_64/rxtx-2.1.7.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/rxtx-2.2pre2-bins/x86_64-unknown-linux-gnu/librxtxSerial.so" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -633,7 +577,7 @@
       <workItem from="1543681659054" duration="5000" />
       <workItem from="1543683911127" duration="1771000" />
       <workItem from="1543685704054" duration="4089000" />
-      <workItem from="1543697275788" duration="432000" />
+      <workItem from="1543697275788" duration="1796000" />
     </task>
     <task id="LOCAL-00001" summary="New Format">
       <created>1541807416077</created>
@@ -782,11 +726,18 @@
       <option name="project" value="LOCAL" />
       <updated>1543547344571</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Atualização">
+      <created>1543698236909</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1543698236909</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154359000" />
+    <option name="totallyTimeSpent" value="155723000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
@@ -798,7 +749,7 @@
       <window_info id="Image Layers" order="4" />
       <window_info id="Structure" order="5" sideWeight="0.5048544" side_tool="true" weight="0.21785174" />
       <window_info id="Web" order="6" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.49514562" visible="true" weight="0.26818183" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.49514562" visible="true" weight="0.26818183" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32899022" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5007576" side_tool="true" weight="0.35016286" />
@@ -806,7 +757,7 @@
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.32899022" />
       <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49924356" weight="0.32899022" />
-      <window_info active="true" anchor="bottom" id="Debug" order="7" visible="true" weight="0.37785017" />
+      <window_info anchor="bottom" id="Debug" order="7" visible="true" weight="0.37785017" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32899022" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
@@ -1041,6 +992,16 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
       <expression>
+        <expression-string>Enumeration portList = CommPortIdentifier.getPortIdentifiers();</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>portList.hasMoreElements()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
+      </expression>
+      <expression>
         <expression-string>!portList.hasMoreElements()</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
@@ -1072,16 +1033,6 @@
       </expression>
       <expression>
         <expression-string>portId.getName().equals(&quot;/dev/ttyACM0&quot;)</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>portList.hasMoreElements()</expression-string>
-        <language-id>JAVA</language-id>
-        <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
-      </expression>
-      <expression>
-        <expression-string>Object sc = request.getServletContext().getAttribute(&quot;serialComm&quot;);</expression-string>
         <language-id>JAVA</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
@@ -1140,10 +1091,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WebContent/login2.jsp" />
-    <entry file="file://$PROJECT_DIR$/WebContent/login.jsp" />
-    <entry file="file://$PROJECT_DIR$/WebContent/login2.html" />
-    <entry file="file://$PROJECT_DIR$/WebContent/cadastro.jsp" />
     <entry file="file://$PROJECT_DIR$/WebContent/ConsSemana.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
@@ -1278,13 +1225,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d619cb48-37c0-4229-8a52-477d862412fd/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="110" selection-start-line="24" selection-start-column="110" selection-end-line="24" selection-end-column="110" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/index2.jsp">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -1382,20 +1322,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arduino/SerialReadAction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Controller/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Service/ConsumoService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
@@ -1411,6 +1337,27 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/mfz-rxtx-2.2-20081207-linux-x86_64/rxtx-2.1.7.jar!/gnu/io/CommPortIdentifier.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Controller/Controller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arduino/SerialReadAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
@@ -1430,7 +1377,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/command/ControleQuartoON.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
+        <state relative-caret-position="90">
           <caret line="28" selection-start-line="28" selection-end-line="28" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1445,22 +1392,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/mfz-rxtx-2.2-20081207-linux-x86_64/rxtx-2.1.7.jar!/gnu/io/CommPortIdentifier.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Arduino/SerialInterface.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="42" column="16" lean-forward="true" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="42" />
+        <state relative-caret-position="110">
+          <caret line="40" column="22" selection-start-line="40" selection-end-line="41" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#2893#2894#0" expanded="true" />
             <element signature="e#2941#2942#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/mfz-rxtx-2.2-20081207-linux-x86_64/rxtx-2.1.7.jar!/gnu/io/CommPort.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-660">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/mfz-rxtx-2.2-20081207-linux-x86_64/rxtx-2.1.7.jar!/gnu/io/SerialPort.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="49" selection-start-line="7" selection-start-column="49" selection-end-line="7" selection-end-column="49" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d619cb48-37c0-4229-8a52-477d862412fd/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" column="57" lean-forward="true" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/banco.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="265">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
         </state>
       </provider>
     </entry>

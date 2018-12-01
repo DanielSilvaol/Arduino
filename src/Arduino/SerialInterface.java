@@ -44,7 +44,7 @@ public class SerialInterface extends Thread implements SerialPortEventListener {
             portId = (CommPortIdentifier) portList.nextElement();
             if (portId.getPortType() == CommPortIdentifier.PORT_SERIAL) {
                 //     if (portId.getName().equals(commPort)) {
-                if (portId.getName().equals("/dev/ttyACM0")) {
+                if (portId.getName().equals("/dev/ttyACM1")) {
                     System.out.println("Porta Serial " + commPort + " encontrada!");
                     portFound = true;
                     break;
