@@ -17,11 +17,14 @@ public class ResetSenha implements Command {
         String login = request.getParameter("loginReset");
         String senha = request.getParameter("senhaReset");
         String confirmeSenha = request.getParameter("confirmeReset");
+        boolean verifica = false;
 
         if (senha.equals(confirmeSenha)) {
-            service.resetSenha(nome, login, senha);
+            verifica = service.resetSenha(nome, login, senha);
         }
-
+        if (verifica) {
+        // Mandar msg se caso foi ou não resetada a senha.
+        }
         RequestDispatcher view = request.getRequestDispatcher("test.jsp");
         view.forward(request, response);
 

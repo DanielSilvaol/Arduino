@@ -30,7 +30,7 @@ public class ControleQuartoOFF implements Command {
 
         service.desligaLed("QUARTO");
         String comando = "2";
-        //si.write(comando.getBytes());
+        si.write(comando.getBytes());
         usuario.setLigaDesligaQuarto(0);
 
         session.setAttribute(USUARIO_SESSION, usuario);

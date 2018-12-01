@@ -17,7 +17,7 @@
         conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/arduino?useTimezone=true&serverTimezone=UTC&user=root&password=root");
 
         String xVal, yVal;
-        st = conn.prepareStatement("SELECT valor, data_inicial as semana FROM consumo WHERE data_inicial BETWEEN CURRENT_DATE()-7 AND CURRENT_DATE() order by data_inicial");
+        st = conn.prepareStatement("SELECT valor, data_inicial as semana FROM Consumo WHERE data_inicial BETWEEN CURRENT_DATE()-7 AND CURRENT_DATE() order by data_inicial");
         rs = st.executeQuery();
         while (rs.next()) {
             xVal = rs.getString("semana");

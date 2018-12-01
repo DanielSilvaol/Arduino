@@ -17,6 +17,7 @@
             <element id="library" level="application" name="popper" />
           </element>
           <element id="library" level="project" name="gson-2.2.2" />
+          <element id="library" level="project" name="RXTXcomm" />
         </element>
       </element>
     </root>

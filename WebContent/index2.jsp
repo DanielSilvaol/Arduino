@@ -18,7 +18,7 @@
 
         String xVal, yVal;
 //    st = conn.prepareStatement("SELECT valor_consumo, data_inicial as dia FROM tb_consumo where day(data_inicial) = day(now()) order by data_inicial");
-        st = conn.prepareStatement("SELECT valor, DataInicial as dia FROM consumo where day(DataInicial) = day(now()) order by DataInicial");
+        st = conn.prepareStatement("SELECT valor, DataInicial as dia FROM Consumo where day(DataInicial) = day(now()) order by DataInicial");
         rs = st.executeQuery();
         while (rs.next()) {
             xVal = rs.getString("dia");

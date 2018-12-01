@@ -18,10 +18,16 @@ public class CriaUsuario implements Command {
         String login = request.getParameter("loginCria");
         String senha = request.getParameter("senhaCria");
         String senhaConfirmar = request.getParameter("senhaConfirmar");
+        boolean verifica = false;
 
         if (senha.equals(senhaConfirmar)) {
-            service.criaUsuario(nome, login, senha);
+            verifica = service.criaUsuario(nome, login, senha);
             /*MSG para dizer que foi criado com sucesso*/
+        }
+        if (verifica) {
+            //msg se caso foi criado o usuario
+        } else {
+            //msg se caso não foi criado
         }
         /*Devese criar um else e uma msg caso de errado a criação*/
         RequestDispatcher view = request.getRequestDispatcher("test.jsp");

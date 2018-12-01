@@ -22,6 +22,9 @@ public class Cadastro implements Command {
             session.setAttribute(USUARIO_SESSION, usuario);
         }
 
+        String nome = request.getParameter("nomeCria");
+        String login = request.getParameter("nomeCria");
+        String senha = request.getParameter("nomeCria");
 
 
         session.setAttribute(USUARIO_SESSION, usuario);

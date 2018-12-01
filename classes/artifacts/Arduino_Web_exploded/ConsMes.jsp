@@ -17,7 +17,7 @@
         conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/arduino?useTimezone=true&serverTimezone=UTC&user=root&password=root");
 
         String xVal, yVal;
-        st = conn.prepareStatement("SELECT valor, DataInicial as mes FROM consumo WHERE month(DataInicial) = month(now()) order by DataInicial");
+        st = conn.prepareStatement("SELECT valor, DataInicial as mes FROM Consumo WHERE month(DataInicial) = month(now()) order by DataInicial");
         rs = st.executeQuery();
         while (rs.next()) {
             xVal = rs.getString("mes");

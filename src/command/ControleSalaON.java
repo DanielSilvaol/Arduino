@@ -29,7 +29,7 @@ public class ControleSalaON implements Command {
         ConsumoService service = new ConsumoService();
 
         String comando = "5";
-        //si.write(comando.getBytes());
+        si.write(comando.getBytes());
         service.ligaLed("SALA");
         usuario.setLigaDesligaSala(1);
 

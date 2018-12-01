@@ -1,5 +1,5 @@
 //Controle da Casa
-const int QuartoLED=13;
+        const int QuartoLED=13;
         const int CozinhaLED=7;
         const int SalaLED=8;
         double valor;
@@ -100,7 +100,6 @@ const int QuartoLED=13;
         alarme_off();
         }
         }
-
         void alarme_on(){
         digitalWrite(ledvermelho,HIGH);
 

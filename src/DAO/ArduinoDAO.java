@@ -12,7 +12,7 @@ public class ArduinoDAO {
         //colocando o controlador de comunicacao serial no contexto da aplicação
         Object sc = request.getServletContext().getAttribute("serialComm");
         if (sc == null) {
-            SerialInterface si = new SerialInterface ("COM3",9600);
+            SerialInterface si = new SerialInterface ("/dev/ttyACM0",9600);
             si.read(new SerialReadAction() {
 
                 public void read(byte b) {

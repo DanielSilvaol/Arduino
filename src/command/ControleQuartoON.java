@@ -30,7 +30,7 @@ public class ControleQuartoON implements Command {
         ConsumoService service = new ConsumoService();
 
         String comando = "3";
-//        si.write(comando.getBytes());
+        si.write(comando.getBytes());
         service.ligaLed("QUARTO");
         usuario.setLigaDesligaQuarto(1);
 

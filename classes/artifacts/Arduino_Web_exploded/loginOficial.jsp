@@ -17,6 +17,7 @@
     <title>Login</title>
 </head>
 <body>
+
 <header>
     <nav id="menu">
         <div class="container">
@@ -64,17 +65,22 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="container" id="btn-login">
                         <div class="row">
-                            <div class="col-md-6" >
-                                <button class="btn btn-outline-warning btn-block" onclick="Criar()" >Crie sua Conta</button>
+                            <div class="col-md-6" id="Cadastro">
+                                <a class="btn btn-outline-warning btn-block" onclick="Criar()">Crie sua
+                                    Conta
+                                </a>
                             </div>
                             <div class="col-md-6">
-                                <button id="Entrar" class="btn btn-outline-success btn-block" type="submit" name="command" value="VerificaLogin">Entrar
+                                <button id="Entrar" class="btn btn-outline-success btn-block" type="submit"
+                                        name="command" value="VerificaLogin">Entrar
                                 </button>
                             </div>
                         </div>
                     </div>
+
                 </form>
             </div>
         </div>

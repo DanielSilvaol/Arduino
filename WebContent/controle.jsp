@@ -4,9 +4,9 @@
 <%@ page import="java.sql.DriverManager" %>
 <%@ page import="com.google.gson.Gson" %>
 <%
-    String SalaSQL = "SELECT STATUS FROM CONSUMO WHERE NOME = 'SALA'  ORDER BY ID DESC LIMIT 1";
-    String CozinhaSQL = "SELECT STATUS FROM CONSUMO WHERE NOME ='COZINHA' ORDER BY ID DESC LIMIT 1";
-    String QuartoSQL = "SELECT STATUS FROM CONSUMO WHERE NOME = 'QUARTO'  ORDER BY ID DESC LIMIT 1";
+    String SalaSQL = "SELECT STATUS FROM Consumo WHERE NOME = 'SALA'  ORDER BY ID DESC LIMIT 1";
+    String CozinhaSQL = "SELECT STATUS FROM Consumo WHERE NOME ='COZINHA' ORDER BY ID DESC LIMIT 1";
+    String QuartoSQL = "SELECT STATUS FROM Consumo WHERE NOME = 'QUARTO'  ORDER BY ID DESC LIMIT 1";
     String Sala = null, Quarto = null, Cozinha = null;
     Connection connSala = null;
     Connection connQuarto = null;
@@ -146,7 +146,7 @@
                                             </button>
                                             <button id="QuartoOff"
                                                     class="btn btn-outline-danger btn-pull" type="submit" name="command"
-                                                    value="ControleQuartoOFF" autocomplete="off" disabled="true">
+                                                    value="ControleQuartoOFF" autocomplete="off" >
                                                 Desligar
                                             </button>
                                         </div>

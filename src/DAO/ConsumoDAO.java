@@ -100,7 +100,7 @@ public class ConsumoDAO {
         Timestamp dataInicial = null;
         Timestamp dataFinal = null;
         int ValorConsm = 0;
-        String sql1 = "select data_inicial, data_final from consumo where nome=(?) order by id desc limit 1";
+        String sql1 = "select data_inicial, data_final from Consumo where nome=(?) order by id desc limit 1";
         try (Connection conn = ConnectionFactory.obtemConexao(); PreparedStatement stm = conn.prepareStatement(sql1)) {
             stm.setString(1, comodo);
             stm.execute();
@@ -134,7 +134,7 @@ public class ConsumoDAO {
             e.printStackTrace();
         }
         int result = ValorConsm * 60;
-        String update = "update consumo set valor = (?) where nome = (?) order by id desc limit 1";
+        String update = "update Consumo set valor = (?) where nome = (?) order by id desc limit 1";
         try {
             try (Connection conn = ConnectionFactory.obtemConexao()) {
                 try (PreparedStatement stm = conn.prepareStatement(update)) {
