@@ -1,6 +1,5 @@
 package command;
 
-import DAO.LoginDAO;
 import Service.LoginService;
 
 import javax.servlet.RequestDispatcher;
@@ -22,15 +21,17 @@ public class CriaUsuario implements Command {
 
         if (senha.equals(senhaConfirmar)) {
             verifica = service.criaUsuario(nome, login, senha);
-            /*MSG para dizer que foi criado com sucesso*/
         }
         if (verifica) {
-            //msg se caso foi criado o usuario
+            String msg = "Conta criado com sucesso.";
+            request.setAttribute("msg", msg);
+            RequestDispatcher view = request.getRequestDispatcher("controle.jsp");
+            view.forward(request, response);
         } else {
-            //msg se caso não foi criado
+            String msg = "Erro.";
+            request.setAttribute("msg", msg);
+            RequestDispatcher view = request.getRequestDispatcher("loginOficial.jsp");
+            view.forward(request, response);
         }
-        /*Devese criar um else e uma msg caso de errado a criação*/
-        RequestDispatcher view = request.getRequestDispatcher("test.jsp");
-        view.forward(request, response);
     }
 }

@@ -60,6 +60,8 @@
         e.printStackTrace();
 
     }
+    String msg = (String) request.getAttribute("msg"),validar;
+    validar = gsonObj.toJson(msg);
 
 
 %>
@@ -97,8 +99,8 @@
                 <div class="row">
                     <div class="col-md-12 pull-right">
                         <ul class="teste" id="teste">
-                            <li><a href="home.html"
-                                   class="btn btn-default navbar-brand d-flex align-items-center"><strong>Home</strong></a>
+                            <li><a href="#"
+                                   class="btn btn-default navbar-brand d-flex align-items-center"><strong>Perfil</strong></a>
                             </li>
                             <li><a href="controle.jsp" class="btn btn-default navbar-brand d-flex align-items-center"
                                    style="color: #FFF; border-bottom: 1px solid #FFF;"><strong>Controle</strong></a>
@@ -230,10 +232,13 @@
         var Coz = <%out.print(Cozinha);%>;
         var Sal = <%out.print(Sala);%>;
         var Qua = <%out.print(Quarto);%>;
+        var validar = <%out.print(validar);%>
 
         function load() {
 
+
             if (Qua === '1') {
+
                 $('#QuartoOn').prop('disabled', true);
                 $('#QuartoOff').prop('disabled', false);
                 document.getElementById("QuartoOn").className = 'btn btn-success';
@@ -242,8 +247,8 @@
                 $('#QuartoOn').prop('disabled', false);
                 document.getElementById("QuartoOff").className = 'btn btn-danger btn-pull';
             }
-
             if (Sal === '1') {
+
                 $('#SalaOn').prop('disabled', true);
                 $('#SalaOff').prop('disabled', false);
                 document.getElementById("SalaOn").className = 'btn btn-success';
@@ -252,8 +257,8 @@
                 $('#SalaOn').prop('disabled', false);
                 document.getElementById("SalaOff").className = 'btn btn-danger btn-pull';
             }
-
             if (Coz === '1') {
+
                 $('#CozinhaOn').prop('disabled', true);
                 $('#CozinhaOff').prop('disabled', false);
                 document.getElementById("CozinhaOn").className = 'btn btn-success';
@@ -262,8 +267,10 @@
                 $('#CozinhaOn').prop('disabled', false);
                 document.getElementById("CozinhaOff").className = 'btn btn-danger btn-pull';
             }
+            if(validar!=null){
+                alert(<%out.print(validar);%>)
+            }
         }
-
     </script>
 </form>
 </body>

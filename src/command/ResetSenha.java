@@ -1,7 +1,6 @@
 package command;
 
 import Service.LoginService;
-
 import javax.servlet.RequestDispatcher;
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServletRequest;
@@ -23,10 +22,16 @@ public class ResetSenha implements Command {
             verifica = service.resetSenha(nome, login, senha);
         }
         if (verifica) {
-        // Mandar msg se caso foi ou não resetada a senha.
+            String msg = "Senha alterada com sucesso!.";
+            request.setAttribute("msg", msg);
+            RequestDispatcher view = request.getRequestDispatcher("loginOficial.jsp");
+            view.forward(request, response);
+        }else{
+            String msg = "Falha na alteração.\n Usuario ou login incorreto.";
+            request.setAttribute("msg", msg);
+            RequestDispatcher view = request.getRequestDispatcher("loginOficial.jsp");
+            view.forward(request, response);
         }
-        RequestDispatcher view = request.getRequestDispatcher("test.jsp");
-        view.forward(request, response);
 
     }
 }

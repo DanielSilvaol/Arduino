@@ -32,6 +32,7 @@
     <orderEntry type="library" name="javax.servlet.jsp.jstl-1.2.1" level="project" />
     <orderEntry type="library" name="mysql:mysql-connector-java:5.1.46" level="project" />
     <orderEntry type="library" name="gson-2.2.2" level="project" />
+    <orderEntry type="library" name="jssc" level="project" />
     <orderEntry type="library" name="RXTXcomm" level="project" />
   </component>
 </module>

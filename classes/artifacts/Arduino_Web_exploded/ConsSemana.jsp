@@ -81,8 +81,8 @@
             <div class="row">
                 <div class="col-md-12 pull-right">
                     <ul class="teste" id="teste">
-                        <li><a href="home.html"
-                               class="btn btn-default navbar-brand d-flex align-items-center"><strong>Home</strong></a>
+                        <li><a href="#"
+                               class="btn btn-default navbar-brand d-flex align-items-center"><strong>Perfil</strong></a>
                         </li>
                         <li><a href="controle.jsp" class="btn btn-default navbar-brand d-flex align-items-center"><strong>Controle</strong></a></li>
                         <li><a href="#" class="btn btn-default navbar-brand d-flex align-items-center" id="consumoteste" style="color: #FFF; border-bottom: 1px solid #FFF;"><strong>Consumo</strong></a>

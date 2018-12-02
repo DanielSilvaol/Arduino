@@ -16,7 +16,22 @@
     <link rel="stylesheet" href="CSS/teste.css">
     <title>Login</title>
 </head>
-<body>
+<%
+    String msg = (String) request.getAttribute("msg"), validar;
+    Gson gsonObj = new Gson();
+    validar = gsonObj.toJson(msg);
+%>
+<script>
+    var validar = <%out.print(validar);%>
+        function load() {
+
+            if (validar != null) {
+                alert(<%out.print(validar);%>)
+            }
+        }
+</script>
+
+<body onload="load()">
 
 <header>
     <nav id="menu">
@@ -25,7 +40,7 @@
                 <div class="col-md-12 pull-right">
                     <ul>
                         <li>
-                            <a href="home.html" class="btn btn-default navbar-brand d-flex align-items-center"><strong>Home</strong></a>
+                            <a href="index.html" class="btn btn-default navbar-brand d-flex align-items-center"><strong>Home</strong></a>
                         </li>
                         <li>
                             <a href="#" class="btn btn-default navbar-brand d-flex align-items-center"

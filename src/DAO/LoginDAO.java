@@ -12,7 +12,7 @@ public class LoginDAO {
             statement.setString(1, nome);
             statement.setString(2, login);
             statement.setString(3, senha);
-            statement.executeQuery();
+            statement.executeUpdate();
             return true;
         } catch (Exception e) {
             e.printStackTrace();
@@ -45,7 +45,7 @@ public class LoginDAO {
 
     public boolean ResetSenha(String nome, String login, String senha) {
         String nomeValidar = null, loginValidar = null;
-        String validarUsuario = "SELECT NOME,LOGIN FROM LOGIN WHERE  NOME = (?) AND LOGIN=(?);";
+        String validarUsuario = "SELECT nome,login FROM login WHERE nome = (?) AND login= (?);;";
         try (Connection connection = ConnectionFactory.obtemConexao(); PreparedStatement statement = connection.prepareStatement(validarUsuario)) {
             statement.setString(1, nome);
             statement.setString(2, login);
@@ -66,12 +66,12 @@ public class LoginDAO {
     }
 
     private void validarReset(String nome, String login, String senha) {
-        String resetSenha = "UPDATE LOGIN SET SENHA = (?) WHERE NOME = (?) AND LOGIN=(?)";
+        String resetSenha = "UPDATE login SET SENHA = (?) WHERE NOME = (?) AND LOGIN=(?)";
         try (Connection connection = ConnectionFactory.obtemConexao(); PreparedStatement statement = connection.prepareStatement(resetSenha)) {
             statement.setString(1, senha);
             statement.setString(2, nome);
             statement.setString(3, login);
-            statement.execute();
+            statement.executeUpdate();
         } catch (SQLException e) {
             e.printStackTrace();
         }

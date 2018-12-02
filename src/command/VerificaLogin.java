@@ -32,8 +32,9 @@ public class VerificaLogin implements Command {
             }
             RequestDispatcher view = request.getRequestDispatcher("controle.jsp");
             view.forward(request, response);
-        }else {
-         /*Necessario enviar msg de senha incorreta*/
+        } else {
+            String msg = "Login / Senha incorreto.";
+            request.setAttribute("msg", msg);
             RequestDispatcher view = request.getRequestDispatcher("loginOficial.jsp");
             view.forward(request, response);
         }

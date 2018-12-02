@@ -7,7 +7,7 @@ import java.sql.Date;
 import java.util.ArrayList;
 
 /**
- * Created by davidson on 03/11/18.
+ * Created by Daniel on 03/11/18.
  */
 public class ConsumoService {
     private ConsumoDAO consumoDAO = new ConsumoDAO();
@@ -21,9 +21,5 @@ public class ConsumoService {
         consumoDAO.EnviaHoraFinal(comodo);
     }
 
-    public ArrayList<Consumo> trazerDatas(String Comodo) {
-        return consumoDAO.dataConsumo(Comodo);
-
-    }
 
 }
