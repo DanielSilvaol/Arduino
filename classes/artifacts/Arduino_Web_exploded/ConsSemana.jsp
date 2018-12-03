@@ -13,7 +13,7 @@
     ResultSet rs = null;
     try {
         Class.forName("com.mysql.jdbc.Driver");
-        //conn = DriverManager.getConnection("jdbc:mysql://localhost/arduino1?user=root&password=");
+        //conn = DriverManager.getConnection("jdbc:mysql://localhost/arduino1?user=root&password=root");
         conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/arduino?useTimezone=true&serverTimezone=UTC&user=root&password=root");
 
         String xVal, yVal;

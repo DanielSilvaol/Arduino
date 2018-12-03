@@ -18,6 +18,7 @@ public class ControleCozinhaOFF implements Command {
 
     @Override
     public void executar(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+
         HttpSession session = request.getSession();
         Usuario usuario = (Usuario) session.getAttribute(USUARIO_SESSION);
         if (usuario == null) {
