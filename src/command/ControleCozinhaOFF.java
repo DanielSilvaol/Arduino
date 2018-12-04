@@ -29,10 +29,18 @@ public class ControleCozinhaOFF implements Command {
         SerialInterface si = ArduinoDAO.getSerialInterface(request);
         ConsumoService service = new ConsumoService();
 
-        service.desligaLed("COZINHA");
-        String comando = "0";
-        si.write(comando.getBytes());
-        usuario.setLigaDesligaCozinha(0);
+        try {
+
+            String comando = "0";
+            si.write(comando.getBytes());
+            usuario.setLigaDesligaCozinha(0);
+            service.desligaLed("COZINHA");
+
+        }catch (Exception e){
+            String msg = "Erro, verificar se o arduino está conectado.";
+            request.setAttribute("msg", msg);
+
+        }
 
         session.setAttribute(USUARIO_SESSION, usuario);
         RequestDispatcher view = request.getRequestDispatcher("controle.jsp");

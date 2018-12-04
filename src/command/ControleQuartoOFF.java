@@ -27,11 +27,16 @@ public class ControleQuartoOFF implements Command {
         }
         SerialInterface si = ArduinoDAO.getSerialInterface(request);
         ConsumoService service = new ConsumoService();
+        try {
 
-        service.desligaLed("QUARTO");
-        String comando = "2";
-        si.write(comando.getBytes());
-        usuario.setLigaDesligaQuarto(0);
+            String comando = "2";
+            si.write(comando.getBytes());
+            usuario.setLigaDesligaQuarto(0);
+            service.desligaLed("QUARTO");
+        } catch (Exception e) {
+            String msg = "Erro, verificar se o arduino está conectado.";
+            request.setAttribute("msg", msg);
+        }
 
         session.setAttribute(USUARIO_SESSION, usuario);
         RequestDispatcher view = request.getRequestDispatcher("controle.jsp");

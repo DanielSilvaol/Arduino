@@ -27,11 +27,16 @@ public class ControleSalaON implements Command {
         }
         SerialInterface si = ArduinoDAO.getSerialInterface(request);
         ConsumoService service = new ConsumoService();
+        try {
 
-        String comando = "5";
-        si.write(comando.getBytes());
-        service.ligaLed("SALA");
-        usuario.setLigaDesligaSala(1);
+            String comando = "5";
+            si.write(comando.getBytes());
+            service.ligaLed("SALA");
+            usuario.setLigaDesligaSala(1);
+        } catch (Exception e) {
+            String msg = "Erro, verificar se o arduino está conectado.";
+            request.setAttribute("msg", msg);
+        }
 
         session.setAttribute(USUARIO_SESSION, usuario);
         RequestDispatcher view = request.getRequestDispatcher("controle.jsp");
