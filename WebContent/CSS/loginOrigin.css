@@ -38,7 +38,7 @@ section{
     top: 50px;
 }
 
-#tela-login, #tela-esqueceu{
+#tela-login, #tela-esqueceu, #tela-create{
     background-color: #FFF;
     text-shadow: 0 .05rem .05rem rgba(0, 0, 0, .5);
     box-shadow: inset 0 0 2rem rgba(0, 0, 0, .5);
@@ -49,12 +49,11 @@ section{
     position: relative;
 }
 
-#tela-esqueceu{
+
+#tela-esqueceu, #tela-create{
     display: none;
 }
-#tela-criar{
-    display: none;
-}
+
 .login-text{
     margin-top: 15px;
 }
@@ -66,7 +65,7 @@ section{
     margin-top: 5px;
 }
 
-#input, #reset-input{
+#input, #reset-input, #create-input{
     left: 11%;
     margin-top: 10px;
 }
@@ -83,8 +82,31 @@ section{
     width: 96%;
 }
 
+#btn-create{
+    width: 75%;
+}
+
+#btn-criar{
+    float:right;
+}
+
+#btn-back{
+    float: left;
+    margin-left: -7.5px;
+}
+
 #Esqueceu{
     position: relative;
-    top: -23px;
+    top: 0px;
     font-size: 13px;
+}
+
+#Cadastro a{
+    text-decoration: none;
+    color: #ffc107!important;
+    text-shadow: none;
+}
+
+#Cadastro a:hover{
+    color: #FFF!important;
 }

@@ -27,6 +27,7 @@
     List<String> ano = new ArrayList();
     int dataPoints;
     Connection conn = null;
+    Connection conn2 = null;
     PreparedStatement st = null;
     ResultSet rs = null;
     int QvalorTotal = 0;
@@ -34,17 +35,19 @@
     int CvalorTotal = 0;
 
 
-    SimpleDateFormat formatador = new SimpleDateFormat("dd/MM/yyyy");
 
     /*      dia  */
     try {
         Class.forName("com.mysql.jdbc.Driver");
 //	conn2 = DriverManager.getConnection("jdbc:mysql://localhost/arduino1?user=root&password=root");
-        conn = DriverManager.getConnection("jdbc:mysql://localhost/arduino?user=root&password=root");
+        conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/arduino?useTimezone=true&serverTimezone=UTC&user=root&password=root");
+//        conn2 = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/arduino?useTimezone=true&serverTimezone=UTC&user=root&password=root");
 
-        int QyVal;
+        //int QyVal;
         String QxVal;
-        st = conn.prepareStatement("SELECT DISTINCT DATE_FORMAT(data_inicial, \"%m/%d/%Y\") as dia FROM Consumo WHERE month(data_inicial) = month (now()) order by data_inicial");
+        st = conn.prepareStatement("set sql_mode = ''");
+        rs = st.executeQuery();
+        st = conn.prepareStatement("SELECT DATE_FORMAT( data_inicial, \"%d/%m/%Y\") as dia FROM Consumo group by monthname(data_inicial)order by data_inicial");
         rs = st.executeQuery();
         while (rs.next()) {
             //QyVal = rs.getInt("valor");
@@ -72,11 +75,13 @@
     try {
         Class.forName("com.mysql.jdbc.Driver");
 //	conn2 = DriverManager.getConnection("jdbc:mysql://localhost/arduino1?user=root&password=root");
-        conn = DriverManager.getConnection("jdbc:mysql://localhost/arduino?user=root&password=root");
+        conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/arduino?useTimezone=true&serverTimezone=UTC&user=root&password=root");
 
         int QyVal;
         String QxVal;
-        st = conn.prepareStatement("SELECT valor as valor, DATE_FORMAT(data_inicial, \"%m/%d/%Y\") as dia FROM Consumo WHERE month(data_inicial) = month (now()) and nome = \"Quarto\" GROUP by data_inicial order by data_inicial");
+        st = conn.prepareStatement("set sql_mode = ''");
+        rs = st.executeQuery();
+        st = conn.prepareStatement("SELECT sum(valor) as valor, extract(MONTH FROM data_inicial) as mes FROM Consumo WHERE nome = \"Quarto\" GROUP by extract(MONTH FROM data_inicial) order by data_inicial");
         rs = st.executeQuery();
         while (rs.next()) {
             QyVal = rs.getInt("valor");
@@ -107,12 +112,13 @@
             e.printStackTrace();
         }
 //	conn2 = DriverManager.getConnection("jdbc:mysql://localhost/arduino1?user=root&password=root");
-        conn = DriverManager.getConnection("jdbc:mysql://localhost/arduino?user=root&password=root");
+        conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/arduino?useTimezone=true&serverTimezone=UTC&user=root&password=root");
 
         int SyVal;
         String SxVal;
-
-        st = conn.prepareStatement("SELECT valor as valor, DATE_FORMAT(data_inicial, \"%m/%d/%Y\") as dia FROM Consumo WHERE month(data_inicial) = month (now()) and nome = \"Sala\" GROUP by data_inicial order by data_inicial");
+        st = conn.prepareStatement("set sql_mode = ''");
+        rs = st.executeQuery();
+        st = conn.prepareStatement("SELECT sum(valor) as valor,data_inicial as mes FROM Consumo WHERE nome = 'SALA' group by monthname(data_inicial) order by data_inicial;");
         rs = st.executeQuery();
         while (rs.next()) {
             SyVal = rs.getInt("valor");
@@ -139,12 +145,13 @@
     try {
         Class.forName("com.mysql.jdbc.Driver");
 //	conn2 = DriverManager.getConnection("jdbc:mysql://localhost/arduino1?user=root&password=");
-        conn = DriverManager.getConnection("jdbc:mysql://localhost/arduino?user=root&password=root");
+        conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/arduino?useTimezone=true&serverTimezone=UTC&user=root&password=root");
 
         int CyVal;
         String CxVal;
-
-        st = conn.prepareStatement("SELECT valor as valor, DATE_FORMAT(data_inicial, \"%m/%d/%Y\") as dia FROM Consumo WHERE month(data_inicial) = month (now()) and nome = \"Cozinha\" GROUP by data_inicial order by data_inicial");
+        st = conn.prepareStatement("set sql_mode = ''");
+        rs = st.executeQuery();
+        st = conn.prepareStatement("SELECT sum(valor) as valor, extract(MONTH FROM data_inicial) as mes FROM Consumo WHERE nome = \"Cozinha\" GROUP by extract(MONTH FROM data_inicial) order by data_inicial");
         rs = st.executeQuery();
         while (rs.next()) {
             CyVal = rs.getInt("valor");
@@ -171,13 +178,14 @@
     try {
         Class.forName("com.mysql.jdbc.Driver");
 //	conn2 = DriverManager.getConnection("jdbc:mysql://localhost/arduino1?user=root&password=");
-        conn = DriverManager.getConnection("jdbc:mysql://localhost/arduino?user=root&password=root");
+        conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/arduino?useTimezone=true&serverTimezone=UTC&user=root&password=root");
 
         int yVal;
         String xVal;
         String xVal2;
         String xVal3;
-
+        st = conn.prepareStatement("set sql_mode = ''");
+        rs = st.executeQuery();
         st = conn.prepareStatement("SELECT sum(valor) as valorTotal FROM Consumo WHERE month(data_inicial) = month (now()) and nome = \"Quarto\" order by data_inicial");
         rs = st.executeQuery();
         while (rs.next()) {
@@ -204,13 +212,14 @@
     try {
         Class.forName("com.mysql.jdbc.Driver");
 //	conn2 = DriverManager.getConnection("jdbc:mysql://localhost/arduino1?user=root&password=");
-        conn = DriverManager.getConnection("jdbc:mysql://localhost/arduino?user=root&password=root");
+        conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/arduino?useTimezone=true&serverTimezone=UTC&user=root&password=root");
 
         int yVal;
         String xVal;
         String xVal2;
         String xVal3;
-
+        st = conn.prepareStatement("set sql_mode = ''");
+        rs = st.executeQuery();
         st = conn.prepareStatement("SELECT sum(valor) as valorTotal FROM Consumo WHERE month(data_inicial) = month (now()) and nome = \"Sala\" order by data_inicial");
         rs = st.executeQuery();
         while (rs.next()) {
@@ -237,13 +246,14 @@
     try {
         Class.forName("com.mysql.jdbc.Driver");
 //	conn2 = DriverManager.getConnection("jdbc:mysql://localhost/arduino1?user=root&password=");
-        conn = DriverManager.getConnection("jdbc:mysql://localhost/arduino?user=root&password=root");
+        conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/arduino?useTimezone=true&serverTimezone=UTC&user=root&password=root");
 
         int yVal;
         String xVal;
         String xVal2;
         String xVal3;
-
+        st = conn.prepareStatement("set sql_mode = ''");
+        rs = st.executeQuery();
         st = conn.prepareStatement("SELECT sum(valor) as valorTotal FROM Consumo WHERE month(data_inicial) = month (now()) and nome = \"Cozinha\" order by data_inicial");
         rs = st.executeQuery();
         while (rs.next()) {
@@ -271,7 +281,9 @@
     try {
         Class.forName("com.mysql.jdbc.Driver");
 //	conn2 = DriverManager.getConnection("jdbc:mysql://localhost/arduino1?user=root&password=");
-        conn = DriverManager.getConnection("jdbc:mysql://localhost/arduino?user=root&password=root");
+        conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/arduino?useTimezone=true&serverTimezone=UTC&user=root&password=root");
+        st = conn.prepareStatement("set sql_mode = ''");
+        rs = st.executeQuery();
         st = conn.prepareStatement("Select nome, valor, data_inicial from Consumo");
         rs = st.executeQuery();
 
@@ -366,18 +378,22 @@
 
     </script>
     <link rel="stylesheet" href="CSS/relatorio.css" >
-    <title>relatorio</title>
+
 </head>
 <body>
 
 <article>
     <header>
-        <div class="title">relatorio</div>
-        <div class="user"></div>
+
+
+
+           <div class="user"></div>
         <div class="interval">
             <ul>
+                <li onclick="location.href='index.html';" >Exit</li>
                 <li onclick="location.href='RelatorioSem.jsp';" >Semanal</li>
                 <li onclick="location.href='relatorio.jsp';" class="active">mês</li>
+                <li onclick="location.href='controle.jsp';" >Controle</li>
             </ul>
         </div>
     </header>
@@ -440,7 +456,18 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.3/Chart.bundle.js"></script>
 <script src="JS/jquery/jquery.min.js"></script>
 <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("#consumoteste, #consumoteste1").on("mouseover", function () {
+            document.getElementById("consumoteste1").style.display = "block";
+            console.log();
+        });
 
+        $("#consumoteste, #consumoteste1").on("mouseout", function(){
+            document.getElementById("consumoteste1").style.display = "none";
+        });
+    });
+</script>
 
 </body>
 </html>

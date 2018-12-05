@@ -37,7 +37,7 @@ public class ControleCozinhaOFF implements Command {
             service.desligaLed("COZINHA");
 
         }catch (Exception e){
-            String msg = "Erro, verificar se o arduino está conectado.";
+            String msg = "Erro, verificar se o arduino est&aacute; conectado.";
             request.setAttribute("msg", msg);
 
         }

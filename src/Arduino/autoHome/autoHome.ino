@@ -7,8 +7,8 @@
 
 // Controle Luz
 
-        int LedLdr = 2;
-        int ldrPin=12; //LDR no pino analígico 8
+        int LedLdr = 9;
+        int ldrPin=A0; //LDR no pino analígico 8
         int ldrValor=0; //Valor lido do LDR
 
 

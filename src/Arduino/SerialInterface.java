@@ -37,14 +37,14 @@ public class SerialInterface extends Thread implements SerialPortEventListener {
      */
     public SerialInterface(String commPort, int rate) {
         super();
-        System.setProperty("gnu.io.rxtx.SerialPorts", "/dev/ttyACM0");
+        System.setProperty("gnu.io.rxtx.SerialPorts", "/dev/ttyACM1");
         Enumeration portList = CommPortIdentifier.getPortIdentifiers();
         boolean portFound = false;
         while (portList.hasMoreElements()) {
             portId = (CommPortIdentifier) portList.nextElement();
             if (portId.getPortType() == CommPortIdentifier.PORT_SERIAL) {
                 //     if (portId.getName().equals(commPort)) {
-                if (portId.getName().equals("/dev/ttyACM0")) {
+                if (portId.getName().equals("/dev/ttyACM1")) {
                     System.out.println("Porta Serial " + commPort + " encontrada!");
                     portFound = true;
                     break;

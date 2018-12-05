@@ -33,7 +33,7 @@ public class ControleSalaOFF implements Command {
             usuario.setLigaDesligaSala(0);
             service.desligaLed("SALA");
         } catch (Exception e) {
-            String msg = "Erro, verificar se o arduino está conectado.";
+            String msg = "Erro, verificar se o arduino est&aacute; conectado.";
             request.setAttribute("msg", msg);
         }
 

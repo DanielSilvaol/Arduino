@@ -7,22 +7,48 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c43028e7-d214-4fa8-a695-d2d6591ec7e8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_scream3r_jssc_2_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WebContent/controle2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Arduino_Web_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Arduino_Web_exploded.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Arduino.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Arduino.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/CSS/relatorio.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/CSS/relatorio.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/CSS/teste.css" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/CSS/loginOrigin.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/META-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/WEB-INF/lib/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/RelatorioSem.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/RelatorioSem.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/controle.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/2controle.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/loginOficial.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/loginOficial.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/relatorio.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/relatorio.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebContent/teste.html" beforeDir="false" afterPath="$PROJECT_DIR$/WebContent/teste.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/Arduino/SerialInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/Arduino/SerialInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/Arduino/autoHome/autoHome.ino" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/Arduino/autoHome/autoHome.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/DAO/ArduinoDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/DAO/ArduinoDAO.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/command/ControleCozinhaOFF.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/command/ControleCozinhaOFF.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/command/ControleCozinhaON.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/command/ControleCozinhaON.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/command/ControleQuartoOFF.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/command/ControleQuartoOFF.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/command/ControleQuartoON.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/command/ControleQuartoON.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/command/ControleSalaOFF.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/command/ControleSalaOFF.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/command/ControleSalaON.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/command/ControleSalaON.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/CSS/teste.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/META-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/Arduino/SerialInterface.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/Arduino/SerialInterface.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/Arduino/autoHome/autoHome.ino" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/Arduino/autoHome/autoHome.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/DAO/ArduinoDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/DAO/ArduinoDAO.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleCozinhaOFF.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleCozinhaOFF.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleCozinhaON.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleCozinhaON.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleQuartoOFF.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleQuartoOFF.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleQuartoON.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleQuartoON.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleSalaOFF.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleSalaOFF.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleSalaON.class" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/classes/command/ControleSalaON.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/controle.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/controle.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/loginOficial.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/loginOficial.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/teste.html" beforeDir="false" afterPath="$PROJECT_DIR$/classes/artifacts/Arduino_Web_exploded/teste.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arduino/SerialInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arduino/SerialInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Arduino/autoHome/autoHome.ino" beforeDir="false" afterPath="$PROJECT_DIR$/src/Arduino/autoHome/autoHome.ino" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DAO/ArduinoDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DAO/ArduinoDAO.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/command/ControleCozinhaOFF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/ControleCozinhaOFF.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/command/ControleCozinhaON.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/ControleCozinhaON.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/command/ControleQuartoOFF.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/command/ControleQuartoOFF.java" afterDir="false" />
@@ -74,96 +100,21 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/command/ControleCozinhaON.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/command/ControleQuartoOFF.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WebContent/loginOficial.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="31" selection-end-column="9" />
+            <state relative-caret-position="248">
+              <caret line="232" column="23" lean-forward="true" selection-start-line="232" selection-start-column="23" selection-end-line="232" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/command/ControleQuartoON.java">
+        <entry file="file://$PROJECT_DIR$/WebContent/CSS/loginOrigin.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/command/ControleSalaOFF.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/command/ControleCozinhaOFF.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/command/CriaUsuario.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="26" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebContent/controle.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3330">
-              <caret line="234" column="36" lean-forward="true" selection-start-line="234" selection-start-column="36" selection-end-line="234" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebContent/relatorio.jsp">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="82">
-              <caret line="42" column="36" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/command/ControleSalaON.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="37" column="45" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
+            <state relative-caret-position="457">
+              <caret line="56" column="12" lean-forward="true" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -180,14 +131,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>valor</find>
-      <find>option1</find>
-      <find>main</find>
-      <find>Entrar</find>
-      <find>Cadastro</find>
-      <find>CadastroVol</find>
-      <find>btn-esqueci</find>
-      <find>tela-login</find>
       <find>Reset</find>
       <find>verificalogin</find>
       <find>Consumo</find>
@@ -204,6 +147,20 @@
       <find>2018</find>
       <find>password=&quot;</find>
       <find>from consumo</find>
+      <find>consumoteste1</find>
+      <find>2controle</find>
+      <find>controle de luzes para o quarto</find>
+      <find>form</find>
+      <find>gnu.io.Commpo</find>
+      <find>'SALA'</find>
+      <find>conn2</find>
+      <find>/dev</find>
+      <find>consumoteste</find>
+      <find>user</find>
+      <find>id=&quot;Esqueceu&quot;</find>
+      <find>crie sua co</find>
+      <find>tela-login</find>
+      <find>tela-criar</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -215,16 +172,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/command/Login.java" />
-        <option value="$PROJECT_DIR$/src/Modal/Usuario.java" />
-        <option value="$PROJECT_DIR$/src/Servlet/filtroLogin.java" />
-        <option value="$PROJECT_DIR$/src/Servlet/Servletlogin.java" />
-        <option value="$PROJECT_DIR$/WebContent/CSS/cover.css" />
-        <option value="$PROJECT_DIR$/WebContent/CSS/styleLogin.css" />
-        <option value="$PROJECT_DIR$/WebContent/login2.jsp" />
-        <option value="$PROJECT_DIR$/WebContent/login.jsp" />
-        <option value="$PROJECT_DIR$/src/Arduino/autoHome/arduino.java" />
-        <option value="$PROJECT_DIR$/WebContent/cadastro.jsp" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/aaf491b7-8e6b-481e-9d49-53f7fe12566a/console.sql" />
         <option value="$PROJECT_DIR$/WebContent/login2.html" />
         <option value="$PROJECT_DIR$/WebContent/CSS/teste.css" />
@@ -233,39 +180,49 @@
         <option value="$PROJECT_DIR$/src/Test/TesteJava.java" />
         <option value="$PROJECT_DIR$/src/Arduino/JavaPath.java" />
         <option value="$PROJECT_DIR$/src/Arduino/ControlePorta.java" />
-        <option value="$PROJECT_DIR$/src/command/Cadastro.java" />
         <option value="$PROJECT_DIR$/WebContent/home.html" />
-        <option value="$PROJECT_DIR$/src/Arduino/autoHome/autoHome.ino" />
         <option value="$PROJECT_DIR$/src/DAO/ConnectionFactory.java" />
         <option value="$PROJECT_DIR$/src/Servlet/ServletCadastro.java" />
         <option value="$PROJECT_DIR$/src/DAO/LoginDAO.java" />
-        <option value="$PROJECT_DIR$/src/command/VerificaLogin.java" />
         <option value="$PROJECT_DIR$/src/command/Consumos.java" />
         <option value="$PROJECT_DIR$/src/Service/ConsumoService.java" />
-        <option value="$PROJECT_DIR$/src/command/CriaUsuario.java" />
         <option value="$PROJECT_DIR$/src/command/ResetSenha.java" />
         <option value="$PROJECT_DIR$/src/DAO/UsuarioDAO.java" />
         <option value="$PROJECT_DIR$/WebContent/index.html" />
         <option value="$PROJECT_DIR$/WebContent/teste.html" />
-        <option value="$PROJECT_DIR$/WebContent/index2.jsp" />
-        <option value="$PROJECT_DIR$/src/DAO/ArduinoDAO.java" />
-        <option value="$PROJECT_DIR$/src/Arduino/SerialInterface.java" />
         <option value="$PROJECT_DIR$/src/test.java" />
         <option value="$PROJECT_DIR$/src/DAO/ConsumoDAO.java" />
-        <option value="$PROJECT_DIR$/WebContent/loginOficial.jsp" />
         <option value="$PROJECT_DIR$/WebContent/banco.sql" />
+        <option value="$PROJECT_DIR$/WebContent/teste2.html" />
+        <option value="$PROJECT_DIR$/WebContent/teste2.jsp" />
+        <option value="$PROJECT_DIR$/WebContent/WEB-INF/lib/web.xml" />
         <option value="$PROJECT_DIR$/WebContent/ConsSemana.jsp" />
+        <option value="$PROJECT_DIR$/src/command/CriaUsuario.java" />
+        <option value="$PROJECT_DIR$/WebContent/2controle.jsp" />
+        <option value="$PROJECT_DIR$/src/command/VerificaLogin.java" />
+        <option value="$PROJECT_DIR$/src/command/Cadastro.java" />
         <option value="$PROJECT_DIR$/WebContent/ConsMes.jsp" />
-        <option value="$PROJECT_DIR$/WebContent/RelatorioSem.jsp" />
-        <option value="$PROJECT_DIR$/WebContent/relatorio.jsp" />
+        <option value="$PROJECT_DIR$/WebContent/index2.jsp" />
+        <option value="$PROJECT_DIR$/WebContent/controle2.html" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/d619cb48-37c0-4229-8a52-477d862412fd/console.sql" />
+        <option value="$PROJECT_DIR$/WebContent/RelatorioSem.jsp" />
+        <option value="$PROJECT_DIR$/src/Arduino/autoHome/autoHome.ino" />
+        <option value="$PROJECT_DIR$/src/Arduino/SerialInterface.java" />
+        <option value="$PROJECT_DIR$/src/DAO/ArduinoDAO.java" />
         <option value="$PROJECT_DIR$/src/command/ControleCozinhaOFF.java" />
-        <option value="$PROJECT_DIR$/src/command/ControleQuartoON.java" />
-        <option value="$PROJECT_DIR$/src/command/ControleSalaON.java" />
         <option value="$PROJECT_DIR$/src/command/ControleCozinhaON.java" />
-        <option value="$PROJECT_DIR$/WebContent/controle.jsp" />
         <option value="$PROJECT_DIR$/src/command/ControleQuartoOFF.java" />
+        <option value="$PROJECT_DIR$/src/command/ControleQuartoON.java" />
         <option value="$PROJECT_DIR$/src/command/ControleSalaOFF.java" />
+        <option value="$PROJECT_DIR$/src/command/ControleSalaON.java" />
+        <option value="$PROJECT_DIR$/WebContent/CSS/loginOrigin2.css" />
+        <option value="$PROJECT_DIR$/WebContent/loginOficial2.jsp" />
+        <option value="$PROJECT_DIR$/WebContent/relatorio.jsp" />
+        <option value="$PROJECT_DIR$/WebContent/CSS/relatorio.css" />
+        <option value="$PROJECT_DIR$/WebContent/CSS/teste2.css" />
+        <option value="$PROJECT_DIR$/WebContent/controle.jsp" />
+        <option value="$PROJECT_DIR$/WebContent/CSS/loginOrigin.css" />
+        <option value="$PROJECT_DIR$/WebContent/loginOficial.jsp" />
       </list>
     </option>
   </component>
@@ -326,7 +283,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -348,35 +304,43 @@
             <path>
               <item name="Arduino" type="b2602c69:ProjectViewProjectNode" />
               <item name="Arduino" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="DAO" type="462c0819:PsiDirectoryNode" />
+              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Arduino" type="b2602c69:ProjectViewProjectNode" />
               <item name="Arduino" type="462c0819:PsiDirectoryNode" />
               <item name="WebContent" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arduino" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arduino" type="462c0819:PsiDirectoryNode" />
+              <item name="WebContent" type="462c0819:PsiDirectoryNode" />
+              <item name="CSS" type="462c0819:PsiDirectoryNode" />
+              <item name="bootstrap-4.1.3" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="true" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543785711213" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544030678521" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/SQL Dialect" value="MySQL" />
     <property name="database.console.LAST_STATE" value="true" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/rxtx-2.2pre2-bins/x86_64-unknown-linux-gnu/librxtxSerial.so" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
@@ -387,19 +351,19 @@
     <key name="OPEN_URL_DIALOG">
       <recent name="https://github.com/joaorodrigues2012/Arduino.git" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/WebContent/CSS" />
-      <recent name="C:\Users\odsda\IdeaProjects\Arduino\WebContent" />
-      <recent name="C:\Users\odsda\IdeaProjects\Arduino\WebContent\CSS" />
-      <recent name="C:\Users\odsda\IdeaProjects\Arduino\WebContent\IMG" />
-      <recent name="C:\Users\odsda\IdeaProjects\Arduino\WebContent\WEB-INF\lib" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/WebContent/CSS" />
       <recent name="$PROJECT_DIR$/WebContent" />
       <recent name="C:\Users\odsda\IdeaProjects\Arduino\WebContent\CSS" />
       <recent name="C:\Users\odsda\IdeaProjects\Arduino\WebContent" />
       <recent name="C:\Users\odsda\IdeaProjects\Arduino\src" />
-      <recent name="C:\Users\odsda\IdeaProjects\Arduino\WebContent\IMG" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/WebContent/WEB-INF/lib" />
+      <recent name="$PROJECT_DIR$/WebContent/WEB-INF" />
+      <recent name="$PROJECT_DIR$/WebContent/CSS" />
+      <recent name="C:\Users\odsda\IdeaProjects\Arduino\WebContent" />
+      <recent name="C:\Users\odsda\IdeaProjects\Arduino\WebContent\CSS" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -610,7 +574,14 @@
       <workItem from="1543868282793" duration="51000" />
       <workItem from="1543868357798" duration="37000" />
       <workItem from="1543868596969" duration="2692000" />
-      <workItem from="1543890553914" duration="1798000" />
+      <workItem from="1543890553914" duration="1911000" />
+      <workItem from="1543928893346" duration="6603000" />
+      <workItem from="1543965297913" duration="5471000" />
+      <workItem from="1543973444826" duration="3628000" />
+      <workItem from="1543977177369" duration="3044000" />
+      <workItem from="1544003261226" duration="4280000" />
+      <workItem from="1544023522514" duration="4152000" />
+      <workItem from="1544029086013" duration="1592000" />
     </task>
     <task id="LOCAL-00001" summary="New Format">
       <created>1541807416077</created>
@@ -787,11 +758,18 @@
       <option name="project" value="LOCAL" />
       <updated>1543866668470</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Atualização">
+      <created>1543892451321</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1543892451321</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="184564000" />
+    <option name="totallyTimeSpent" value="213447000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1366" height="743" extended-state="6" />
@@ -803,8 +781,8 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
       <window_info id="Structure" order="5" sideWeight="0.5048544" side_tool="true" weight="0.21785174" />
-      <window_info id="Web" order="6" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.49514562" visible="true" weight="0.3151515" />
+      <window_info id="Web" order="6" sideWeight="0.50325733" side_tool="true" weight="0.32954547" />
+      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.49674267" weight="0.32954547" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32899022" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.3295082" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50151515" side_tool="true" weight="0.35016286" />
@@ -818,7 +796,7 @@
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Application Servers" order="12" weight="0.3295082" />
-      <window_info active="true" anchor="bottom" id="Database Console" order="13" sideWeight="0.49848485" visible="true" weight="0.35016286" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="13" sideWeight="0.49848485" visible="true" weight="0.38925081" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
       <window_info anchor="bottom" id="Serial Monitor" order="15" weight="0.32899022" />
       <window_info anchor="bottom" id="Inspection Results" order="16" weight="0.3295082" />
@@ -843,35 +821,38 @@
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
       <window_info id="Structure" order="5" sideWeight="0.5048544" side_tool="true" weight="0.21785174" />
-      <window_info id="Web" order="6" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="7" sideWeight="0.49514562" visible="true" weight="0.2375189" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.3295082" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50075644" side_tool="true" weight="0.3295082" />
+      <window_info id="Web" order="6" sideWeight="0.50325733" side_tool="true" weight="0.32954547" />
+      <window_info active="true" content_ui="combo" id="Project" order="7" sideWeight="0.49674267" visible="true" weight="0.32954547" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32899022" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3295082" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.50151515" side_tool="true" weight="0.35016286" />
       <window_info anchor="bottom" id="Database Changes" order="3" />
       <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.3295082" />
-      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49924356" weight="0.3295082" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.3786885" />
-      <window_info anchor="bottom" id="Messages" order="8" weight="0.3295082" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.32899022" />
+      <window_info anchor="bottom" id="Run" order="6" sideWeight="0.49924356" weight="0.32899022" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.37785017" />
+      <window_info anchor="bottom" id="Messages" order="8" weight="0.32899022" />
       <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="11" />
       <window_info anchor="bottom" id="Application Servers" order="12" weight="0.3295082" />
-      <window_info anchor="bottom" id="Database Console" order="13" weight="0.35081968" />
+      <window_info active="true" anchor="bottom" id="Database Console" order="13" sideWeight="0.49848485" visible="true" weight="0.38925081" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
-      <window_info anchor="bottom" id="Serial Monitor" order="15" weight="0.3295082" />
+      <window_info anchor="bottom" id="Serial Monitor" order="15" weight="0.32899022" />
       <window_info anchor="bottom" id="Inspection Results" order="16" weight="0.3295082" />
+      <window_info anchor="bottom" id="Docker" order="17" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Duplicate detector" order="18" weight="0.32899022" />
       <window_info anchor="right" id="Capture Analysis" order="0" />
       <window_info anchor="right" id="Theme Preview" order="1" />
-      <window_info anchor="right" id="Database" order="2" sideWeight="0.4987715" weight="0.30786687" />
-      <window_info anchor="right" id="Palette&#9;" order="3" />
-      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32980332" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Palette&#9;" order="2" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.32980332" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Database" order="6" sideWeight="0.4987715" weight="0.30757576" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
       <window_info anchor="right" id="Coverage" order="9" sideWeight="0.5012285" side_tool="true" weight="0.30786687" />
+      <window_info anchor="right" id="Maven" order="10" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -898,19 +879,19 @@
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/WebContent/controle.jsp</url>
+          <url>file://$PROJECT_DIR$/WebContent/2controle.jsp</url>
           <line>23</line>
           <properties />
           <option name="timeStamp" value="68" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/WebContent/controle.jsp</url>
+          <url>file://$PROJECT_DIR$/WebContent/2controle.jsp</url>
           <line>22</line>
           <properties />
           <option name="timeStamp" value="69" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/WebContent/controle.jsp</url>
+          <url>file://$PROJECT_DIR$/WebContent/2controle.jsp</url>
           <line>21</line>
           <properties />
           <option name="timeStamp" value="71" />
@@ -940,7 +921,7 @@
           <option name="timeStamp" value="75" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/WebContent/controle.jsp</url>
+          <url>file://$PROJECT_DIR$/WebContent/2controle.jsp</url>
           <line>233</line>
           <properties />
           <option name="timeStamp" value="76" />
@@ -989,12 +970,6 @@
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/Arduino/SerialInterface.java</url>
-          <line>42</line>
-          <properties />
-          <option name="timeStamp" value="91" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/Arduino/SerialInterface.java</url>
           <line>53</line>
           <properties />
           <option name="timeStamp" value="92" />
@@ -1004,12 +979,6 @@
           <line>57</line>
           <properties />
           <option name="timeStamp" value="97" />
-        </line-breakpoint>
-        <line-breakpoint type="java-line">
-          <url>file://$PROJECT_DIR$/src/command/ControleQuartoON.java</url>
-          <line>28</line>
-          <properties />
-          <option name="timeStamp" value="99" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/src/command/ControleQuartoON.java</url>
@@ -1025,21 +994,45 @@
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/WebContent/relatorio.jsp</url>
-          <line>239</line>
+          <line>248</line>
           <properties />
           <option name="timeStamp" value="103" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/WebContent/relatorio.jsp</url>
-          <line>246</line>
+          <line>256</line>
           <properties />
           <option name="timeStamp" value="104" />
         </line-breakpoint>
         <line-breakpoint type="java-line">
           <url>file://$PROJECT_DIR$/WebContent/relatorio.jsp</url>
-          <line>256</line>
+          <line>266</line>
           <properties />
           <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/src/command/ControleCozinhaON.java</url>
+          <line>34</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/WebContent/relatorio.jsp</url>
+          <line>120</line>
+          <properties />
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/WebContent/relatorio.jsp</url>
+          <line>121</line>
+          <properties />
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/WebContent/relatorio.jsp</url>
+          <line>49</line>
+          <properties />
+          <option name="timeStamp" value="109" />
         </line-breakpoint>
         <breakpoint type="java-exception">
           <properties class="com.sun.org.apache.bcel.internal.classfile.ClassFormatException" package="com.sun.org.apache.bcel.internal.classfile" />
@@ -1057,50 +1050,48 @@
   <component name="debuggerHistoryManager">
     <expressions id="evaluateCodeFragment">
       <expression>
-        <expression-string>CvalorTotal = rs.getInt(&quot;valorTotal&quot;);</expression-string>
+        <expression-string>String    QxVal = rs.getString(&quot;dia&quot;);</expression-string>
         <language-id>JSP</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>st = conn.prepareStatement(&quot;SELECT sum(valor) as valorTotal FROM Consumo WHERE month(data_inicial) = month (now()) and nome = \&quot;Cozinha\&quot; order by data_inicial&quot;);</expression-string>
+        <expression-string>QxVal = rs.getString(&quot;dia&quot;);</expression-string>
         <language-id>JSP</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>conn = DriverManager.getConnection(&quot;jdbc:mysql://localhost/arduino?user=root&amp;password=root&quot;);</expression-string>
+        <expression-string>rs.next()</expression-string>
         <language-id>JSP</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>statement.executeUpdate();</expression-string>
-        <language-id>JAVA</language-id>
+        <expression-string>rs = st.executeQuery();</expression-string>
+        <language-id>JSP</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>nomeValidar.equals(nome) &amp;&amp; loginValidar.equals(login)</expression-string>
-        <language-id>JAVA</language-id>
+        <expression-string>st.executeQuery();</expression-string>
+        <language-id>JSP</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>ResultSet resultSet = statement.executeQuery()</expression-string>
-        <language-id>JAVA</language-id>
+        <expression-string>st = conn.prepareStatement(&quot;SELECT DATE_FORMAT( data_inicial, \&quot;%d/%m/%Y\&quot;) as dia FROM Consumo group by monthname(data_inicial)order by data_inicial &quot;);</expression-string>
+        <language-id>JSP</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>return DriverManager.getConnection(&quot;jdbc:mysql://localhost:3306/arduino?useTimezone=true&amp;serverTimezone=UTC&amp;user=root&amp;password=root&quot;);</expression-string>
-        <language-id>JAVA</language-id>
+        <expression-string>st.executeUpdate();</expression-string>
+        <language-id>JSP</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>String validarUsuario = &quot;SELECT NOME,LOGIN FROM LOGIN WHERE  NOME = (?) AND LOGIN=(?);&quot;;
-Connection connection = ConnectionFactory.obtemConexao();
-PreparedStatement statement = connection.prepareStatement(validarUsuario);</expression-string>
-        <language-id>JAVA</language-id>
+        <expression-string>st= conn2.prepareStatement(&quot;set sql_mode = ''&quot;);</expression-string>
+        <language-id>JSP</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>Connection connection = ConnectionFactory.obtemConexao(); PreparedStatement statement = connection.prepareStatement(validarUsuario)</expression-string>
-        <language-id>JAVA</language-id>
+        <expression-string>String QxVal = rs.getString(&quot;dia&quot;);</expression-string>
+        <language-id>JSP</language-id>
         <evaluation-mode>CODE_FRAGMENT</evaluation-mode>
       </expression>
     </expressions>
@@ -1158,79 +1149,6 @@ PreparedStatement statement = connection.prepareStatement(validarUsuario);</expr
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/Área de Trabalho/JavaPath.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/Cadastro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="das://aaf491b7-8e6b-481e-9d49-53f7fe12566a/schema/arduino/table/consumo.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/rxtx-2.2pre2-bins/RXTXcomm.jar!/gnu/io/CommPortIdentifier.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/io/OutputStream.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/Enumeration.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/mfz-rxtx-2.2-20081207-linux-x86_64/rxtx-2.1.7.jar!/gnu/io/CommPortEnumerator.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/mfz-rxtx-2.2-20081207-linux-x86_64/rxtx-2.1.7.jar!/gnu/io/CommPortIdentifier.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="107" selection-start-line="107" selection-end-line="107" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Controller/Controller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/mfz-rxtx-2.2-20081207-linux-x86_64/rxtx-2.1.7.jar!/gnu/io/CommPort.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-660">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/mfz-rxtx-2.2-20081207-linux-x86_64/rxtx-2.1.7.jar!/gnu/io/SerialPort.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="10" column="46" lean-forward="true" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -1247,47 +1165,10 @@ PreparedStatement statement = connection.prepareStatement(validarUsuario);</expr
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/rxtx-2.2pre2-bins/RXTXcomm.jar!/gnu/io/RXTXPort.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="1029" selection-start-line="1029" selection-end-line="1029" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.46.jar!/com/mysql/jdbc/PreparedStatement.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="2544" selection-start-line="2544" selection-end-line="2544" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.46.jar!/com/mysql/jdbc/NonRegisteringDriver.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="118">
           <caret line="117" column="22" selection-start-line="117" selection-start-column="22" selection-end-line="117" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Service/LoginService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding>
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#428#429#0" expanded="true" />
-            <element signature="e#485#486#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/VerificaLogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="36" column="45" selection-start-line="36" selection-start-column="45" selection-end-line="36" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1297,55 +1178,13 @@ PreparedStatement statement = connection.prepareStatement(validarUsuario);</expr
     <entry file="file://$PROJECT_DIR$/src/Servlet/ServletCadastro.java" />
     <entry file="file://$PROJECT_DIR$/src/Servlet/filtroLogin.java" />
     <entry file="file://$PROJECT_DIR$/WebContent/index.html" />
-    <entry file="file://$PROJECT_DIR$/src/command/ResetSenha.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebContent/Grafico.html">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/index2.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="117" column="43" selection-start-line="117" selection-start-column="43" selection-end-line="117" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/ConsMes.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="87" column="5" selection-start-line="87" selection-start-column="5" selection-end-line="87" selection-end-column="5" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/DAO/ConnectionFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/DAO/LoginDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d619cb48-37c0-4229-8a52-477d862412fd/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="1" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/RelatorioSem.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1170">
-          <caret line="78" column="226" selection-start-line="78" selection-start-column="36" selection-end-line="78" selection-end-column="226" />
         </state>
       </provider>
     </entry>
@@ -1356,34 +1195,10 @@ PreparedStatement statement = connection.prepareStatement(validarUsuario);</expr
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arduino/ControlePorta.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Arduino/SerialReadAction.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arduino/autoHome/autoHome.ino">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1020">
-          <caret line="68" column="16" selection-start-line="68" selection-start-column="16" selection-end-line="68" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Arduino/SerialInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1470">
-          <caret line="111" column="18" selection-start-line="111" selection-start-column="18" selection-end-line="111" selection-end-column="18" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1407,30 +1222,6 @@ PreparedStatement statement = connection.prepareStatement(validarUsuario);</expr
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/DAO/ArduinoDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/CriaUsuario.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="26" selection-end-column="45" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/loginOficial.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="31" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_code.jquery.com_jquery-3.3.1.slim.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -1438,59 +1229,257 @@ PreparedStatement statement = connection.prepareStatement(validarUsuario);</expr
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/controle.jsp">
+    <entry file="file://$PROJECT_DIR$/WebContent/controle2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3330">
-          <caret line="234" column="36" lean-forward="true" selection-start-line="234" selection-start-column="36" selection-end-line="234" selection-end-column="36" />
+        <state relative-caret-position="105">
+          <caret line="7" column="100" selection-start-line="7" selection-start-column="100" selection-end-line="7" selection-end-column="100" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#li#1;n#ul#0;n#div#1;n#div#0;n#div#0;n#nav#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebContent/relatorio.jsp">
+    <entry file="file://$PROJECT_DIR$/src/DAO/LoginDAO.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="42" column="36" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
+        <state relative-caret-position="330">
+          <caret line="22" column="24" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/ControleCozinhaOFF.java">
+    <entry file="file://$PROJECT_DIR$/src/Service/LoginService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        <state relative-caret-position="105">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+          <folding>
+            <element signature="e#174#175#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#358#359#0" expanded="true" />
+            <element signature="e#428#429#0" expanded="true" />
+            <element signature="e#485#486#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/ControleCozinhaON.java">
+    <entry file="jar://$PROJECT_DIR$/lib/rxtx-2.2pre2-bins/RXTXcomm.jar!/gnu/io/RXTXPort.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="118">
+          <caret line="1029" selection-start-line="1029" selection-end-line="1029" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/ControleQuartoOFF.java">
+    <entry file="file://$PROJECT_DIR$/src/Arduino/ControlePorta.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="34" column="11" selection-start-line="34" selection-start-column="11" selection-end-line="34" selection-end-column="11" />
+        <state relative-caret-position="-307">
+          <caret line="14" column="17" lean-forward="true" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.46.jar!/com/mysql/jdbc/ConnectionImpl.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="2760" column="29" selection-start-line="2760" selection-start-column="29" selection-end-line="2760" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/WEB-INF/lib/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="30" selection-end-line="9" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arduino/SerialInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/mysql-connector-java-5.1.46.jar!/com/mysql/jdbc/PreparedStatement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="118">
+          <caret line="984" column="21" selection-start-line="984" selection-start-column="21" selection-end-line="984" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/2controle.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3465">
+          <caret line="231" column="8" selection-start-line="231" selection-start-column="8" selection-end-line="234" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/RelatorioSem.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" column="69" selection-start-line="36" selection-start-column="69" selection-end-line="36" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/ConsMes.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Arduino/autoHome/autoHome.ino">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="26" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/d619cb48-37c0-4229-8a52-477d862412fd/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2715">
+          <caret line="181" column="48" selection-start-line="181" selection-start-column="48" selection-end-line="181" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DAO/ArduinoDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/index2.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="751">
+          <caret line="117" column="43" selection-start-line="117" selection-start-column="43" selection-end-line="117" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/CSS/controle.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/command/ControleQuartoON.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="38" column="45" selection-start-line="38" selection-start-column="45" selection-end-line="38" selection-end-column="45" />
+        <state relative-caret-position="405">
+          <caret line="37" column="58" lean-forward="true" selection-start-line="37" selection-start-column="58" selection-end-line="37" selection-end-column="58" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/command/ControleSalaOFF.java">
+    <entry file="file://$PROJECT_DIR$/src/command/VerificaLogin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="33" column="12" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+        <state relative-caret-position="180">
+          <caret line="20" column="59" selection-start-line="20" selection-start-column="59" selection-end-line="20" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/ResetSenha.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/CriaUsuario.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="26" column="45" lean-forward="true" selection-start-line="26" selection-start-column="45" selection-end-line="26" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/command/ControleSalaON.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="36" column="58" selection-start-line="36" selection-start-column="58" selection-end-line="36" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/ControleCozinhaOFF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="39" column="58" lean-forward="true" selection-start-line="39" selection-start-column="58" selection-end-line="39" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/ControleQuartoOFF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="36" column="58" lean-forward="true" selection-start-line="36" selection-start-column="58" selection-end-line="36" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/ControleCozinhaON.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="337">
-          <caret line="37" column="45" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
+          <caret line="38" column="58" selection-start-line="38" selection-start-column="58" selection-end-line="38" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/command/ControleSalaOFF.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="35" column="58" selection-start-line="35" selection-start-column="58" selection-end-line="35" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/IMG/bright-1851267_1280.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/CSS/loginOrigin2.css" />
+    <entry file="file://$PROJECT_DIR$/WebContent/loginOficial2.jsp" />
+    <entry file="file://$PROJECT_DIR$/WebContent/CSS/relatorio.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1875">
+          <caret line="125" column="10" selection-start-line="125" selection-start-column="10" selection-end-line="135" selection-end-column="1" />
+          <folding>
+            <element signature="e#2669#10363#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/controle.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="488">
+          <caret line="226" column="15" selection-start-line="226" selection-start-column="15" selection-end-line="226" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/relatorio.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-82">
+          <caret line="389" column="11" selection-start-line="389" selection-start-column="11" selection-end-line="389" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/CSS/teste2.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="71" column="18" selection-start-line="71" selection-start-column="18" selection-end-line="71" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/CSS/loginOrigin.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="457">
+          <caret line="56" column="12" lean-forward="true" selection-start-line="56" selection-start-column="12" selection-end-line="56" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebContent/loginOficial.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="232" column="23" lean-forward="true" selection-start-line="232" selection-start-column="23" selection-end-line="232" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -1573,7 +1562,7 @@ PreparedStatement statement = connection.prepareStatement(validarUsuario);</expr
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>jssc</last-edited>
+          <last-edited>org.scream3r:jssc:2.8.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

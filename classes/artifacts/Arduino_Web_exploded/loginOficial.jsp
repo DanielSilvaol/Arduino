@@ -13,7 +13,7 @@
     <meta charset="utf-8">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css"
           integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link rel="stylesheet" href="CSS/teste.css">
+    <link rel="stylesheet" href="CSS/loginOrigin.css">
     <title>Login</title>
 </head>
 <%
@@ -84,7 +84,7 @@
                     <div class="container" id="btn-login">
                         <div class="row">
                             <div class="col-md-6" id="Cadastro">
-                                <a class="btn btn-outline-warning btn-block" onclick="Criar()">Crie sua
+                                <a class="btn btn-outline-warning" id="btn-criar123" onclick="Criar()">Crie sua
                                     Conta
                                 </a>
                             </div>
@@ -157,7 +157,7 @@
         </div>
     </div>
     <%--Criar Usuario--%>
-    <div class="container" id="tela-criar">
+    <div class="container" id="tela-create">
         <div class="row">
             <div class="col-md-12">
                 <form action="controller.do" method="post">
@@ -166,43 +166,38 @@
                     </div>
                     <div class="container">
                         <div class="row">
-                            <div class="col-md-12" id="criacao-input">
+                            <div class="col-md-12" id="create-input">
                                 <div class="form-label-group">
-                                    <input id="CriacaoUser" class="form-control" placeholder="Usuário"
-                                           name="nomeCria" required autofocus>
-                                    <label for="CriacaoUser"></label>
+                                    <input id="Name" class="form-control" placeholder="Nome Completo" name="namecreate" required autofocus>
+                                    <label for="CreateUser"></label>
                                 </div>
-
                                 <div class="form-label-group">
-                                    <input id="CriaLogin" class="form-control" placeholder="Login"
-                                           name="loginCria" required autofocus>
-                                    <label for="CriaLogin"></label>
+                                    <input id="user" class="form-control" placeholder="Usuário" name="logincreate" required autofocus>
+                                    <label for="UserUser"></label>
                                 </div>
-
                                 <div class="form-label-group">
-                                    <input type="password" class="form-control" placeholder="Senha" name="senhaCria"
-                                           required autofocus>
-                                    <label for="inputPassword"></label>
+                                    <input type="password" id="Password" class="form-control" placeholder="Digite sua senha" name="passwordcreate" required autofocus>
+                                    <label for="passwordUser"></label>
                                 </div>
-
                                 <div class="form-label-group">
-                                    <input type="password" class="form-control" placeholder="Confirmar Senha"
-                                           name="senhaConfirmar" required>
-                                    <label for="inputPassword"></label>
+                                    <input type="password" id="PasswordRepeat" class="form-control" placeholder="Repita sua senha" name="passwordrepeatcreate" required autofocus>
+                                    <label for="CreateUser"></label>
                                 </div>
                             </div>
-                        </div>
-                    </div>
-                    <div class="container" id="btn-cria">
-                        <div class="row">
-                            <div class="col-md-6" id="Voltar">
-                                <button class="btn btn-outline-warning btn-block" onclick="Voltar()">Voltar
-                                </button>
-                            </div>
-                            <div class="col-md-6">
-                                <button id="Criar" class="btn btn-outline-success btn-block" type="submit"
-                                        name="command" value="CriaUsuario">Criar
-                                </button>
+
+                            <div class="container" id="btn-create">
+                                <div class="row">
+                                    <div class="col-md-6" id="col-back">
+                                        <button  id="btn-back" class="btn btn-outline-warning btn-block" onclick="Voltar()">
+                                            Voltar
+                                        </button>
+                                    </div>
+                                    <div class="col-md-6" id="col-create">
+                                        <button  id="btn-criar" class="btn btn-outline-success btn-block">
+                                            Criar
+                                        </button>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
@@ -238,13 +233,13 @@
     function Voltar() {
         document.getElementById("tela-esqueceu").style.display = "none";
         document.getElementById("tela-login").style.display = "block";
-        document.getElementById("tela-criar").style.display = "none";
+        document.getElementById("tela-create").style.display = "none";
     }
 
     function Criar() {
         document.getElementById("tela-login").style.display = "none";
         document.getElementById("tela-esqueceu").style.display = "none";
-        document.getElementById("tela-criar").style.display = "block";
+        document.getElementById("tela-create").style.display = "block";
     }
 </script>
 </body>

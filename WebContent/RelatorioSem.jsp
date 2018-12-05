@@ -40,11 +40,13 @@
     try {
         Class.forName("com.mysql.jdbc.Driver");
 //	conn2 = DriverManager.getConnection("jdbc:mysql://localhost/arduino1?user=root&password=");
-        conn = DriverManager.getConnection("jdbc:mysql://localhost/arduino?user=root&password=root");
+        conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/arduino?useTimezone=true&serverTimezone=UTC&user=root&password=root");
 
         int QyVal;
         String QxVal;
-        st = conn.prepareStatement("SELECT DISTINCT DATE_FORMAT(data_inicial, \"%m/%d/%Y\") as dia FROM Consumo WHERE WEEK (data_inicial,1) = WEEK(NOW()) order by data_inicial");
+        st = conn.prepareStatement("set sql_mode = ''");
+        rs = st.executeQuery();
+        st = conn.prepareStatement("SELECT DISTINCT DATE_FORMAT(data_inicial, \"%d/%m/%Y\") as dia FROM Consumo WHERE WEEK (data_inicial) = WEEK(NOW()) order by data_inicial");
         rs = st.executeQuery();
         while (rs.next()) {
             //QyVal = rs.getInt("valor");
@@ -72,11 +74,13 @@
     try {
         Class.forName("com.mysql.jdbc.Driver");
 //	conn2 = DriverManager.getConnection("jdbc:mysql://localhost/arduino1?user=root&password=");
-        conn = DriverManager.getConnection("jdbc:mysql://localhost/arduino?user=root&password=root");
+        conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/arduino?useTimezone=true&serverTimezone=UTC&user=root&password=root");
 
         int QyVal;
         String QxVal;
-        st = conn.prepareStatement("SELECT valor as valor, DATE_FORMAT(data_inicial, \"%m/%d/%Y\") as dia FROM Consumo WHERE WEEK (data_inicial,1) = WEEK(NOW()) and nome = \"Quarto\" GROUP by data_inicial order by data_inicial");
+        st = conn.prepareStatement("set sql_mode = ''");
+        rs = st.executeQuery();
+        st = conn.prepareStatement("SELECT valor as valor, DATE_FORMAT(data_inicial, \"%d/%m/%Y\") as dia FROM Consumo WHERE WEEK (data_inicial) = WEEK(NOW()) and nome = \"Quarto\" GROUP by data_inicial order by data_inicial");
         rs = st.executeQuery();
         while (rs.next()) {
             QyVal = rs.getInt("valor");
@@ -103,12 +107,12 @@
     try {
         Class.forName("com.mysql.jdbc.Driver");
 //	conn2 = DriverManager.getConnection("jdbc:mysql://localhost/arduino1?user=root&password=");
-        conn = DriverManager.getConnection("jdbc:mysql://localhost/arduino?user=root&password=root");
+        conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/arduino?useTimezone=true&serverTimezone=UTC&user=root&password=root");
 
         int SyVal;
         String SxVal;
 
-        st = conn.prepareStatement("SELECT valor as valor, DATE_FORMAT(data_inicial, \"%m/%d/%Y\") as dia FROM Consumo WHERE WEEK (data_inicial,1) = WEEK(NOW()) and nome = \"Sala\" GROUP by data_inicial order by data_inicial");
+        st = conn.prepareStatement("SELECT valor as valor, DATE_FORMAT(data_inicial, \"%d/%m/%Y\") as dia FROM Consumo WHERE WEEK (data_inicial) = WEEK(NOW()) and nome = \"Sala\" GROUP by data_inicial order by data_inicial");
         rs = st.executeQuery();
         while (rs.next()) {
             SyVal = rs.getInt("valor");
@@ -135,12 +139,13 @@
     try {
         Class.forName("com.mysql.jdbc.Driver");
 //	conn2 = DriverManager.getConnection("jdbc:mysql://localhost/arduino1?user=root&password=");
-        conn = DriverManager.getConnection("jdbc:mysql://localhost/arduino?user=root&password=root");
+        conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/arduino?useTimezone=true&serverTimezone=UTC&user=root&password=root");
 
         int CyVal;
         String CxVal;
-
-        st = conn.prepareStatement("SELECT valor as valor, DATE_FORMAT(data_inicial, \"%m/%d/%Y\") as dia FROM Consumo WHERE WEEK (data_inicial,1) = WEEK(NOW()) and nome = \"Cozinha\" GROUP by data_inicial order by data_inicial");
+        st = conn.prepareStatement("set sql_mode = ''");
+        rs = st.executeQuery();
+        st = conn.prepareStatement("SELECT valor as valor, DATE_FORMAT(data_inicial, \"%d/%m/%Y\") as dia FROM Consumo WHERE WEEK (data_inicial) = WEEK(NOW()) and nome = \"Cozinha\" GROUP by data_inicial order by data_inicial");
         rs = st.executeQuery();
         while (rs.next()) {
             CyVal = rs.getInt("valor");
@@ -167,14 +172,15 @@
     try {
         Class.forName("com.mysql.jdbc.Driver");
 //	conn2 = DriverManager.getConnection("jdbc:mysql://localhost/arduino1?user=root&password=");
-        conn = DriverManager.getConnection("jdbc:mysql://localhost/arduino?user=root&password=root");
+        conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/arduino?useTimezone=true&serverTimezone=UTC&user=root&password=root");
 
         int yVal;
         String xVal;
         String xVal2;
         String xVal3;
-
-        st = conn.prepareStatement("SELECT sum(valor) as valorTotal FROM Consumo WHERE WEEK (data_inicial,1) = WEEK(NOW()) and nome = \"Quarto\" order by data_inicial");
+        st = conn.prepareStatement("set sql_mode = ''");
+        rs = st.executeQuery();
+        st = conn.prepareStatement("SELECT sum(valor) as valorTotal FROM Consumo WHERE WEEK (data_inicial) = WEEK(NOW()) and nome = \"Quarto\" order by data_inicial");
         rs = st.executeQuery();
         while (rs.next()) {
             yVal = rs.getInt("valorTotal");
@@ -200,14 +206,15 @@
     try {
         Class.forName("com.mysql.jdbc.Driver");
 //	conn2 = DriverManager.getConnection("jdbc:mysql://localhost/arduino1?user=root&password=");
-        conn = DriverManager.getConnection("jdbc:mysql://localhost/arduino?user=root&password=root");
+        conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/arduino?useTimezone=true&serverTimezone=UTC&user=root&password=root");
 
         int yVal;
         String xVal;
         String xVal2;
         String xVal3;
-
-        st = conn.prepareStatement("SELECT sum(valor) as valorTotal FROM Consumo WHERE WEEK (data_inicial,1) = WEEK(NOW()) and nome = \"Sala\" order by data_inicial");
+        st = conn.prepareStatement("set sql_mode = ''");
+        rs = st.executeQuery();
+        st = conn.prepareStatement("SELECT sum(valor) as valorTotal FROM Consumo WHERE WEEK (data_inicial) = WEEK(NOW()) and nome = \"Sala\" order by data_inicial");
         rs = st.executeQuery();
         while (rs.next()) {
             yVal = rs.getInt("valorTotal");
@@ -233,14 +240,15 @@
     try {
         Class.forName("com.mysql.jdbc.Driver");
 //	conn2 = DriverManager.getConnection("jdbc:mysql://localhost/arduino1?user=root&password=");
-        conn = DriverManager.getConnection("jdbc:mysql://localhost/arduino?user=root&password=root");
+        conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/arduino?useTimezone=true&serverTimezone=UTC&user=root&password=root");
 
         int yVal;
         String xVal;
         String xVal2;
         String xVal3;
-
-        st = conn.prepareStatement("SELECT sum(valor) as valorTotal FROM Consumo WHERE WEEK (data_inicial,1) = WEEK(NOW()) and nome = \"Cozinha\" order by data_inicial");
+        st = conn.prepareStatement("set sql_mode = ''");
+        rs = st.executeQuery();
+        st = conn.prepareStatement("SELECT sum(valor) as valorTotal FROM Consumo WHERE WEEK (data_inicial) = WEEK(NOW()) and nome = \"Cozinha\" order by data_inicial");
         rs = st.executeQuery();
         while (rs.next()) {
             yVal = rs.getInt("valorTotal");
@@ -267,7 +275,9 @@
     try {
         Class.forName("com.mysql.jdbc.Driver");
 //	conn2 = DriverManager.getConnection("jdbc:mysql://localhost/arduino1?user=root&password=");
-        conn = DriverManager.getConnection("jdbc:mysql://localhost/arduino?user=root&password=root");
+        conn = DriverManager.getConnection("jdbc:mysql://127.0.0.1:3306/arduino?useTimezone=true&serverTimezone=UTC&user=root&password=root");
+        st = conn.prepareStatement("set sql_mode = ''");
+        rs = st.executeQuery();
         st = conn.prepareStatement("Select nome, valor, data_inicial from Consumo");
         rs = st.executeQuery();
 

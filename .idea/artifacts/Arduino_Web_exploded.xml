@@ -19,6 +19,7 @@
           <element id="library" level="project" name="gson-2.2.2" />
           <element id="library" level="project" name="jssc" />
           <element id="library" level="project" name="RXTXcomm" />
+          <element id="library" level="project" name="org.scream3r:jssc:2.8.0" />
         </element>
       </element>
     </root>
